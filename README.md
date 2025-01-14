@@ -19,6 +19,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jan 11] [1400. Construct K Palindrome Strings](Jan/11_Construct_K_Palindrome_Strings.cpp)
 - [Jan 12] [2116. Check if a Parentheses String Can Be Valid](Jan/12_Check_if_a_Parentheses_String_Can_Be_Valid.cpp)
 - [Jan 13] [3223. Minimum Length of String After Operations](Jan/13_Minimum_Length_of_String_After_Operations.cpp)
+- [Jan 14] [2657. Find the Prefix Common Array of Two Arrays](Jan/14_Find_the_Prefix_Common_Array_of_Two_Arrays.cpp)
 
 ### Structure
 
