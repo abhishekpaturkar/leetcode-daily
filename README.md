@@ -22,6 +22,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jan 14] [2657. Find the Prefix Common Array of Two Arrays](Jan/14_Find_the_Prefix_Common_Array_of_Two_Arrays.cpp)
 - [Jan 15] [2429. Minimize XOR](Jan/15_Minimize_XOR.cpp)
 - [Jan 16] [2425. Bitwise XOR of All Pairings](Jan/16_Bitwise_XOR_of_All_Pairings.cpp)
+- [Jan 17] [2683. Neighboring Bitwise XOR](Jan/17_Neighboring_Bitwise_XOR.cpp)
 
 ### Structure
 
