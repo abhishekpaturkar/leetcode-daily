@@ -26,6 +26,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jan 18] [1368. Minimum Cost to Make at Least One Valid Path in a Grid](Jan/18_Minimum_Cost.cpp)
 - [Jan 19] [407. Trapping Rain Water II](Jan/19_Trapping_Rain_Water_II.cpp)
 - [Jan 20] [2661. First Completely Painted Row or Column](Jan/20_First_Completely_Painted_Row_or_Column.cpp)
+- [Jan 21] [2017. Grid Game](Jan/21_Grid_Game.cpp)
 
 ### Structure
 
