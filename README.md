@@ -29,6 +29,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jan 21] [2017. Grid Game](Jan/21_Grid_Game.cpp)
 - [Jan 22] [1765. Map of Highest Peak](Jan/22_Map_of_Highest_Peak.cpp)
 - [Jan 23] [1267. Count Servers that Communicate](Jan/23_Count_Servers_that_Communicate.cpp)
+- [Jan 24] [802. Find Eventual Safe States](Jan/24_Find_Eventual_Safe_States.cpp)
 
 ### Structure
 
