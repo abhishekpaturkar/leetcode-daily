@@ -33,6 +33,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jan 25] [2948. Make Lexicographically Smallest Array by Swapping Elements](Jan/25_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp)
 - [Jan 26] [2127. Maximum Employees to Be Invited to a Meeting](Jan/26_Maximum_Employees_to_Be_Invited_to_a_Meeting.cpp)
 - [Jan 27] [1462. Course Schedule IV](Jan/27_Course_Schedule_IV.cpp)
+- [Jan 28] [2658. Maximum Number of Fish in a Grid](Jan/28_Maximum_Number_of_Fish_in_a_Grid.cpp)
 
 ### Structure
 
