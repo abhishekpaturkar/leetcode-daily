@@ -35,6 +35,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jan 27] [1462. Course Schedule IV](Jan/27_Course_Schedule_IV.cpp)
 - [Jan 28] [2658. Maximum Number of Fish in a Grid](Jan/28_Maximum_Number_of_Fish_in_a_Grid.cpp)
 - [Jan 29] [684. Redundant Connection](Jan/29_Redundant_Connection.cpp)
+- [Jan 30] [2493. Divide Nodes Into the Maximum Number of Groups](Jan/30_Divide_Nodes_Into_the_Maximum_Number_of_Groups.cpp)
 
 ### Structure
 
