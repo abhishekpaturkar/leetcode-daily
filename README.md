@@ -4,7 +4,7 @@ A collection of daily LeetCode problems with solutions.
 
 ## Index
 
-### January 2024
+### January 2025
 
 - [Jan 1] [1422. Maximum_Score_After_Splitting_a_String](Jan/1_Maximum_Score_After_Splitting_a_String.c++)
 - [Jan 2] [2559. Count Vowel Strings in Ranges](Jan/2_Count_Vowel_Strings_in_Ranges.cpp)
@@ -37,6 +37,10 @@ A collection of daily LeetCode problems with solutions.
 - [Jan 29] [684. Redundant Connection](Jan/29_Redundant_Connection.cpp)
 - [Jan 30] [2493. Divide Nodes Into the Maximum Number of Groups](Jan/30_Divide_Nodes_Into_the_Maximum_Number_of_Groups.cpp)
 - [Jan 31] [827. Making A Large Island](Jan/31_Making_A_Large_Island.cpp)
+
+### February 2025
+
+- [Feb 1] [3151. Special Array I](Feb/1_Special_Array_I.cpp)
 
 ### Structure
 
