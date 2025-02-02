@@ -41,6 +41,7 @@ A collection of daily LeetCode problems with solutions.
 ### February 2025
 
 - [Feb 1] [3151. Special Array I](Feb/1_Special_Array_I.cpp)
+- [Feb 2] [1752. Check if Array Is Sorted and Rotated](Feb/2_Check_if_Array_Is_Sorted_and_Rotated.cpp)
 
 ### Structure
 
