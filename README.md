@@ -42,6 +42,7 @@ A collection of daily LeetCode problems with solutions.
 
 - [Feb 1] [3151. Special Array I](Feb/1_Special_Array_I.cpp)
 - [Feb 2] [1752. Check if Array Is Sorted and Rotated](Feb/2_Check_if_Array_Is_Sorted_and_Rotated.cpp)
+- [Feb 3] [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Feb/3_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.cpp)
 
 ### Structure
 
