@@ -45,6 +45,7 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 3] [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Feb/3_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.cpp)
 - [Feb 4] [1800. Maximum Ascending Subarray Sum](feb/4_Maximum_Ascending_Subarray_Sum.cpp)4
 - [Feb 5] [1790. Check if One String Swap Can Make Strings Equa](feb/5_Check_if_One_String_Swap_Can_Make_Strings_Equal.cpp)
+- [Feb 6] [1726. Tuple with Same Product](Feb/6_Tuple_with_Same_Product.cpp)
 
 ### Structure
 
