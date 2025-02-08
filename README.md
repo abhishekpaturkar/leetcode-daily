@@ -46,6 +46,9 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 4] [1800. Maximum Ascending Subarray Sum](feb/4_Maximum_Ascending_Subarray_Sum.cpp)4
 - [Feb 5] [1790. Check if One String Swap Can Make Strings Equa](feb/5_Check_if_One_String_Swap_Can_Make_Strings_Equal.cpp)
 - [Feb 6] [1726. Tuple with Same Product](Feb/6_Tuple_with_Same_Product.cpp)
+- [Feb 7] [3160. Find the Number of Distinct Colors Among the Balls](Feb/7_Find%20the_Number_of_Distinct_Colors_Among_the_Balls.cpp)
+- [Feb 8] [2349. Design a Number Container System](Feb/8_Design_a_Number_Container_System.cpp)
+
 
 ### Structure
 
