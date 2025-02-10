@@ -49,6 +49,7 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 7] [3160. Find the Number of Distinct Colors Among the Balls](Feb/7_Find%20the_Number_of_Distinct_Colors_Among_the_Balls.cpp)
 - [Feb 8] [2349. Design a Number Container System](Feb/8_Design_a_Number_Container_System.cpp)
 - [Feb 9] [2364. Count Number of Bad Pairs](Feb/9_Count_Number_of_Bad_Pairs.cpp)
+- [Feb 10] [3174. Clear Digits](Feb/10_Clear_Digits.cpp)
 
 ### Structure
 
