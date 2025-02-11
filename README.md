@@ -50,6 +50,7 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 8] [2349. Design a Number Container System](Feb/8_Design_a_Number_Container_System.cpp)
 - [Feb 9] [2364. Count Number of Bad Pairs](Feb/9_Count_Number_of_Bad_Pairs.cpp)
 - [Feb 10] [3174. Clear Digits](Feb/10_Clear_Digits.cpp)
+- [Feb 11] [1910. Remove All Occurrences of a Substring](Feb/11_Remove_All_Occurrences_of_a_Substring.cpp)
 
 ### Structure
 
