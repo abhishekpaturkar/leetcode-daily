@@ -52,6 +52,7 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 10] [3174. Clear Digits](Feb/10_Clear_Digits.cpp)
 - [Feb 11] [1910. Remove All Occurrences of a Substring](Feb/11_Remove_All_Occurrences_of_a_Substring.cpp)
 - [Feb 12] [2342. Max Sum of a Pair With Equal Sum of Digits](Feb/12_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.cpp)
+- [Feb 13] [3066. Minimum Operations to Exceed Threshold Value II](Feb/13_Minimum_Operations_to_Exceed_Threshold_Value_II.cpp)
 
 ### Structure
 
