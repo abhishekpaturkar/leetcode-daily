@@ -54,6 +54,7 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 12] [2342. Max Sum of a Pair With Equal Sum of Digits](Feb/12_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.cpp)
 - [Feb 13] [3066. Minimum Operations to Exceed Threshold Value II](Feb/13_Minimum_Operations_to_Exceed_Threshold_Value_II.cpp)
 - [Feb 14] [1352. Product of the Last K Numbers](Feb/14_Product_of_the_Last_K_Numbers.cpp)
+- [Feb 15] [2698. Find the Punishment Number of an Integer](Feb/15_Find_the_Punishment_Number_of_an_Integer.cpp)
 
 ### Structure
 
