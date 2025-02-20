@@ -59,6 +59,7 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 17] [1079. Letter Tile Possibilities](Feb/17_Letter_Tile_Possibilities.cpp)
 - [Feb 18] [2375. Construct Smallest Number From DI String](Feb/18_Construct_Smallest_Number_From_DI_String.cpp)
 - [Feb 19] [1415. The k-th Lexicographical String of All Happy Strings of Length n](Feb/19_The_kth_Lexicographical_String.cpp)
+- [Feb 20] [1980. Find Unique Binary String](Feb/20_Find_Unique_Binary_String.cpp)
 
 ### Structure
 
