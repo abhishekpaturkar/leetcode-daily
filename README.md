@@ -60,6 +60,7 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 18] [2375. Construct Smallest Number From DI String](Feb/18_Construct_Smallest_Number_From_DI_String.cpp)
 - [Feb 19] [1415. The k-th Lexicographical String of All Happy Strings of Length n](Feb/19_The_kth_Lexicographical_String.cpp)
 - [Feb 20] [1980. Find Unique Binary String](Feb/20_Find_Unique_Binary_String.cpp)
+- [Feb 21] [1261. Find Elements in a Contaminated Binary Tree](Feb/21_Find_Elementsin_a_Contaminated_Binary_Tree.cpp)
 
 ### Structure
 
