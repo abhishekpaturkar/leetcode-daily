@@ -62,6 +62,7 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 20] [1980. Find Unique Binary String](Feb/20_Find_Unique_Binary_String.cpp)
 - [Feb 21] [1261. Find Elements in a Contaminated Binary Tree](Feb/21_Find_Elementsin_a_Contaminated_Binary_Tree.cpp)
 - [Feb 22] [1028. Recover a Tree From Preorder Traversal](Feb/22_Recover_a_Tree_From_Preorder_Traversal.cpp)
+- [Feb 23] [889. Construct Binary Tree from Preorder and Postorder Traversal](Feb/23_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.cpp)
 
 ### Structure
 
