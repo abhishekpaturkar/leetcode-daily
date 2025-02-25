@@ -64,6 +64,7 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 22] [1028. Recover a Tree From Preorder Traversal](Feb/22_Recover_a_Tree_From_Preorder_Traversal.cpp)
 - [Feb 23] [889. Construct Binary Tree from Preorder and Postorder Traversal](Feb/23_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.cpp)
 - [Feb 24] [2467. Most Profitable Path in a Tree](Feb/24_Most_Profitable_Path_in_a_Tree.cpp)
+- [Feb 25] [1524. Number of Sub-arrays With Odd Sum](Feb/25_Number_of_Sub-arrays_With_Odd_Sum.cpp)
 
 ### Structure
 
