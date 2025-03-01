@@ -69,6 +69,10 @@ A collection of daily LeetCode problems with solutions.
 - [Feb 27] [873. Length of Longest Fibonacci Subsequence](Feb/27_Length_of_Longest_Fibonacci_Subsequence.cpp)
 - [Feb 28] [1092. Shortest Common Supersequence](Feb/28_Shortest_Common_Supersequence.cpp)
 
+### March 2025
+
+- [Mar 1] [2460. Apply Operations to an Array](Mar/01_Apply_Operations_to_an_Array.cpp)
+
 ### Structure
 
 Each solution includes:
