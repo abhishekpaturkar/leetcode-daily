@@ -72,6 +72,7 @@ A collection of daily LeetCode problems with solutions.
 ### March 2025
 
 - [Mar 1] [2460. Apply Operations to an Array](Mar/01_Apply_Operations_to_an_Array.cpp)
+- [Mar 2] [2570. Merge Two 2D Arrays by Summing Values](Mar/02_Merge_Two_2D_Arrays_by_Summing_Values.cpp)
 
 ### Structure
 
