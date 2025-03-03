@@ -73,6 +73,7 @@ A collection of daily LeetCode problems with solutions.
 
 - [Mar 1] [2460. Apply Operations to an Array](Mar/01_Apply_Operations_to_an_Array.cpp)
 - [Mar 2] [2570. Merge Two 2D Arrays by Summing Values](Mar/02_Merge_Two_2D_Arrays_by_Summing_Values.cpp)
+- [Mar 3] [2161. Partition Array According to Given Pivot](Mar/03_Partition_Array_According_to_Given_Pivot.cpp)
 
 ### Structure
 
