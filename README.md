@@ -77,6 +77,7 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 4] [1780. Check if Number is a Sum of Powers of Three](Mar/04_Check_if_Number_is_a_Sum_of_Powers_of_Three.cpp)
 - [Mar 5] [2579. Count Total Number of Colored Cells](Mar/05_Count_Total_Number_of_Colored_Cells.cpp)
 - [Mar 6] [2965. Find Missing and Repeated Values](Mar/06_Find_Missing_and_Repeated_Values.cpp)
+- [Mar 7] [2523. Closest Prime Numbers in Range](Mar/07_Closest_Prime_Numbers_in_Range.cpp)
 
 ### Structure
 
