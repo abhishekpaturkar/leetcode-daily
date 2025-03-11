@@ -81,6 +81,7 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 8] [2379. Minimum Recolors to Get K Consecutive Black Blocks](Mar/08_Minimum_Recolors_Get_K_Consecutive_Black_Blocks.cpp)
 - [Mar 9] [3208. Alternating Groups II](Mar/09_Alternating_Groups_II.cpp)
 - [Mar 10] [3306. Count of Substrings Containing Every Vowel and K Consonants II](Mar/10_Count_of_Substrings.cpp)
+- [Mar 11] [1358. Number of Substrings Containing All Three Characters](Mar/11_Number_of_Substrings_Containing_All_Three_Characters.cpp)
 
 ### Structure
 
