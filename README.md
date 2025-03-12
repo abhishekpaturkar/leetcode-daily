@@ -82,6 +82,7 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 9] [3208. Alternating Groups II](Mar/09_Alternating_Groups_II.cpp)
 - [Mar 10] [3306. Count of Substrings Containing Every Vowel and K Consonants II](Mar/10_Count_of_Substrings.cpp)
 - [Mar 11] [1358. Number of Substrings Containing All Three Characters](Mar/11_Number_of_Substrings_Containing_All_Three_Characters.cpp)
+- [Mar 12] [2529. Maximum Count of Positive Integer and Negative Integer](Mar/12_Maximum_Count_of_Positive_Integer_and_Negative_Integer.cpp)
 
 ### Structure
 
