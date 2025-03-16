@@ -86,6 +86,7 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 13] [3356. Zero Array Transformation II](Mar/13_Zero_Array_Transformation_II.cpp)
 - [Mar 14] [2226. Maximum Candies Allocated to K Children](Mar/14_Maximum_Candies_Allocated_to_K_Children.cpp)
 - [Mar 15] [2560. House Robber IV](Mar/15_House_Robber_IV.cpp)
+- [Mar 16] [2594. Minimum Time to Repair Cars](Mar/16_Minimum_Time_to_Repair_Cars.cpp)
 
 ### Structure
 
