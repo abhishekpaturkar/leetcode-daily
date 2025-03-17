@@ -87,6 +87,7 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 14] [2226. Maximum Candies Allocated to K Children](Mar/14_Maximum_Candies_Allocated_to_K_Children.cpp)
 - [Mar 15] [2560. House Robber IV](Mar/15_House_Robber_IV.cpp)
 - [Mar 16] [2594. Minimum Time to Repair Cars](Mar/16_Minimum_Time_to_Repair_Cars.cpp)
+- [Mar 17] [2206. Divide Array Into Equal Pairs](Mar/17_Divide_Array_Into_Equal_Pairs.cpp)
 
 ### Structure
 
