@@ -89,6 +89,7 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 16] [2594. Minimum Time to Repair Cars](Mar/16_Minimum_Time_to_Repair_Cars.cpp)
 - [Mar 17] [2206. Divide Array Into Equal Pairs](Mar/17_Divide_Array_Into_Equal_Pairs.cpp)
 - [Mar 18] [2401. Longest Nice Subarray](Mar/18_Longest_Nice_Subarray.cpp)
+- [Mar 19] [3191. Minimum Operations to Make Binary Array Elements Equal to One I](Mar/19_Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_I.cpp)
 
 ### Structure
 
