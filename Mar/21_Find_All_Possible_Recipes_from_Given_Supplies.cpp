@@ -37,7 +37,7 @@
 // Explanation:
 // "bread" can be made since its ingredients "flour" and "water" are available.
 // "sandwich" can be made because "bread" (which can now be made) and "ham" are available.
-// "burger" can be made since "bread", "lettuce", and "cheese" are all available.
+// "burger" can be made since "bread", "lettuce", and "cheese" are all available
 
 class Solution {
     public:
