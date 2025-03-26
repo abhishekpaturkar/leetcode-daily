@@ -91,6 +91,11 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 18] [2401. Longest Nice Subarray](Mar/18_Longest_Nice_Subarray.cpp)
 - [Mar 19] [3191. Minimum Operations to Make Binary Array Elements Equal to One I](Mar/19_Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_I.cpp)
 - [Mar 20] [3108. Minimum Cost Walk in Weighted Graph](Mar/20_Minimum_Cost_Walk_in_Weighted_Graph.cpp)
+- [Mar 21] [2115. Find All Possible Recipes from Given Supplies](Mar/21_Find_All_Possible_Recipes_from_Given_Supplies.cpp)
+- [Mar 22] [2685. Count the Number of Complete Components](Mar/22_Count_the_Number_of_Complete_Components.cpp)
+- [Mar 23] [1976. Number of Ways to Arrive at Destination](Mar/23_Number_of_Ways_to_Arrive_at_Destination.cpp)
+- [Mar 24] [3169. Count Days Without Meetings](Mar/24_Count_Days_Without_Meetings.cpp)
+- [Mar 25] [3394. Check if Grid can be Cut into Sections](Mar/25_Check_if_Grid_can_be_Cut_into_Sections.cpp)
 
 ### Structure
 
