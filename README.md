@@ -96,6 +96,7 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 23] [1976. Number of Ways to Arrive at Destination](Mar/23_Number_of_Ways_to_Arrive_at_Destination.cpp)
 - [Mar 24] [3169. Count Days Without Meetings](Mar/24_Count_Days_Without_Meetings.cpp)
 - [Mar 25] [3394. Check if Grid can be Cut into Sections](Mar/25_Check_if_Grid_can_be_Cut_into_Sections.cpp)
+- [Mar 26] [2780. Minimum Index of a Valid Split](Mar/27_Minimum_Index_of_a_Valid_Split.cpp)
 
 ### Structure
 
