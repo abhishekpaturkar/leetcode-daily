@@ -99,6 +99,8 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 26] [2033. Minimum Operations to Make a Uni-Value Grid](Mar/26_Minimum_Operations_to_Make_a_Uni_Value_Grid.cpp)
 - [Mar 27] [2780. Minimum Index of a Valid Split](Mar/27_Minimum_Index_of_a_Valid_Split.cpp)
 - [Mar 28] [2503. Maximum Number of Points From Grid Queries](Mar/28_Maximum_Number_of_Points_From_Grid_Queries.cpp)
+- [Mar 29] [2818. Apply Operations to Maximize Score](Mar/29_Apply_Operations_to_Maximize_Score.cpp)
+- [Mar 30] [763. Partition Labels](Mar/30_Partition_Labels.cpp)
 
 ### Structure
 
