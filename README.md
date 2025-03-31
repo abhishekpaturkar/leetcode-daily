@@ -101,6 +101,7 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 28] [2503. Maximum Number of Points From Grid Queries](Mar/28_Maximum_Number_of_Points_From_Grid_Queries.cpp)
 - [Mar 29] [2818. Apply Operations to Maximize Score](Mar/29_Apply_Operations_to_Maximize_Score.cpp)
 - [Mar 30] [763. Partition Labels](Mar/30_Partition_Labels.cpp)
+- [Mar 31] [2551. Put Marbles in Bags](Mar/31_Put_Marbles_in_Bags.cpp)
 
 ### Structure
 
