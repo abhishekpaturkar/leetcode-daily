@@ -103,6 +103,10 @@ A collection of daily LeetCode problems with solutions.
 - [Mar 30] [763. Partition Labels](Mar/30_Partition_Labels.cpp)
 - [Mar 31] [2551. Put Marbles in Bags](Mar/31_Put_Marbles_in_Bags.cpp)
 
+### April 2025
+
+- [Apr 1] [2140. Solving Questions With Brainpower](Apr/01_Solving_Questions_With_Brainpower.cpp)
+
 ### Structure
 
 Each solution includes:
