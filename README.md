@@ -107,6 +107,7 @@ A collection of daily LeetCode problems with solutions.
 
 - [Apr 1] [2140. Solving Questions With Brainpower](Apr/01_Solving_Questions_With_Brainpower.cpp)
 - [Apr 2] [2873. Maximum Value of an Ordered Triplet I](Apr/02_Maximum_Value_of_an_Ordered_Triplet_I.cpp)
+- [Apr 3] [2874. Maximum Value of an Ordered Triplet II](Apr/03_Maximum_Value_of_an_Ordered_Triplet_II.cpp)
 
 ### Structure
 
