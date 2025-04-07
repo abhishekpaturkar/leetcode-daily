@@ -111,6 +111,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 4] [1123. Lowest Common Ancestor of Deepest Leaves](Apr/04_Lowest_Common_Ancestor_of_Deepest_Leaves.cpp)
 - [Apr 5] [1863. Sum of All Subset XOR Totals](Apr/05_Sum_of_All_Subset_XOR_Totals.cpp)
 - [Apr 6] [368. Largest Divisible Subset](Apr/06_Largest_Divisible_Subset.cpp)
+- [Apr 7] [416. Partition Equal Subset Sum](Apr/07_Partition_Equal_Subset_Sum.cpp)
 
 ### Structure
 
