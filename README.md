@@ -110,6 +110,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 3] [2874. Maximum Value of an Ordered Triplet II](Apr/03_Maximum_Value_of_an_Ordered_Triplet_II.cpp)
 - [Apr 4] [1123. Lowest Common Ancestor of Deepest Leaves](Apr/04_Lowest_Common_Ancestor_of_Deepest_Leaves.cpp)
 - [Apr 5] [1863. Sum of All Subset XOR Totals](Apr/05_Sum_of_All_Subset_XOR_Totals.cpp)
+- [Apr 6] [368. Largest Divisible Subset](Apr/06_Largest_Divisible_Subset.cpp)
 
 ### Structure
 
