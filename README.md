@@ -112,6 +112,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 5] [1863. Sum of All Subset XOR Totals](Apr/05_Sum_of_All_Subset_XOR_Totals.cpp)
 - [Apr 6] [368. Largest Divisible Subset](Apr/06_Largest_Divisible_Subset.cpp)
 - [Apr 7] [416. Partition Equal Subset Sum](Apr/07_Partition_Equal_Subset_Sum.cpp)
+- [Apr 8] [3396. Minimum Number of Operations to Make Elements in Array Distinct](Apr/08_Minimum_Number_of_Operations_to_Make_Elements_in_Array_Distinct.cpp)
 
 ### Structure
 
