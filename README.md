@@ -113,6 +113,8 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 6] [368. Largest Divisible Subset](Apr/06_Largest_Divisible_Subset.cpp)
 - [Apr 7] [416. Partition Equal Subset Sum](Apr/07_Partition_Equal_Subset_Sum.cpp)
 - [Apr 8] [3396. Minimum Number of Operations to Make Elements in Array Distinct](Apr/08_Minimum_Number_of_Operations_to_Make_Elements_in_Array_Distinct.cpp)
+- [Apr 9] [3375. Minimum Operations to Make Array Values Equal to K](Apr/09_Minimum_Operations_to_Make_Array_Values_Equal_to_K.cpp)
+- [Apr 10] [2999. Count the Number of Powerful Integers](Apr/10_Count_the_Number_of_Powerful_Integers.cpp)
 
 ### Structure
 
