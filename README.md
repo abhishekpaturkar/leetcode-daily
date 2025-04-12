@@ -116,6 +116,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 9] [3375. Minimum Operations to Make Array Values Equal to K](Apr/09_Minimum_Operations_to_Make_Array_Values_Equal_to_K.cpp)
 - [Apr 10] [2999. Count the Number of Powerful Integers](Apr/10_Count_the_Number_of_Powerful_Integers.cpp)
 - [Apr 11] [2843. Count Symmetric Integers](Apr/11_Count_Symmetric_Integers.cpp)
+- [Apr 12] [3272. Find the Count of Good Integers](Apr/12_Find_the_Count_of_Good_Integers.cpp)
 
 ### Structure
 
