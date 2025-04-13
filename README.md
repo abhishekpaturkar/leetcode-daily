@@ -117,6 +117,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 10] [2999. Count the Number of Powerful Integers](Apr/10_Count_the_Number_of_Powerful_Integers.cpp)
 - [Apr 11] [2843. Count Symmetric Integers](Apr/11_Count_Symmetric_Integers.cpp)
 - [Apr 12] [3272. Find the Count of Good Integers](Apr/12_Find_the_Count_of_Good_Integers.cpp)
+- [Apr 13] [1922. Count Good Numbers](Apr/13_Count_Good_Numbers.cpp)
 
 ### Structure
 
