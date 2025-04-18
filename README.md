@@ -121,6 +121,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 14] [1534. Count Good Triplets](Apr/14_Count_Good_Triplets.cpp)
 - [Apr 15] [2179. Count Good Triplets in an Array](Apr/15_Count_Good_Triplets_in_an_Array.cpp)
 - [Apr 16] [2537. Count the Number of Good Subarrays](Apr/16_Count_the_Number_of_Good_Subarrays.cpp)
+- [apr 17] [2176. Count Equal and Divisible Pairs in an Array](Apr/17_Count_Equal_and_Divisible_Pairs_in_an_Array.cpp)
 
 ### Structure
 
