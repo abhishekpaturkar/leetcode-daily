@@ -123,6 +123,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 16] [2537. Count the Number of Good Subarrays](Apr/16_Count_the_Number_of_Good_Subarrays.cpp)
 - [apr 17] [2176. Count Equal and Divisible Pairs in an Array](Apr/17_Count_Equal_and_Divisible_Pairs_in_an_Array.cpp)
 - [Apr 18] [38. Count and Say](Apr/18_Count_and_Say.cpp)
+- [Apr 19] [2563. Count the Number of Fair Pairs](Apr/19_Count_the_Number_of_Fair_Pairs.cpp)
 
 ### Structure
 
