@@ -124,6 +124,7 @@ A collection of daily LeetCode problems with solutions.
 - [apr 17] [2176. Count Equal and Divisible Pairs in an Array](Apr/17_Count_Equal_and_Divisible_Pairs_in_an_Array.cpp)
 - [Apr 18] [38. Count and Say](Apr/18_Count_and_Say.cpp)
 - [Apr 19] [2563. Count the Number of Fair Pairs](Apr/19_Count_the_Number_of_Fair_Pairs.cpp)
+- [Apr 20] [781. Rabbits in Forest](Apr/20_Rabbits_in_Forest.cpp)
 
 ### Structure
 
