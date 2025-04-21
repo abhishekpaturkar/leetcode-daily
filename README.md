@@ -125,6 +125,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 18] [38. Count and Say](Apr/18_Count_and_Say.cpp)
 - [Apr 19] [2563. Count the Number of Fair Pairs](Apr/19_Count_the_Number_of_Fair_Pairs.cpp)
 - [Apr 20] [781. Rabbits in Forest](Apr/20_Rabbits_in_Forest.cpp)
+- [Apr 21] [2145. Count the Hidden Sequences](Apr/21_Count_the_Hidden_Sequences.cpp)
 
 ### Structure
 
