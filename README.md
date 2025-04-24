@@ -128,6 +128,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 21] [2145. Count the Hidden Sequences](Apr/21_Count_the_Hidden_Sequences.cpp)
 - [Apr 22] [2338. Count the Number of Ideal Arrays](Apr/22_Count_the_Number_of_Ideal_Arrays.cpp)
 - [Apr 23] [1399. Count Largest Group](Apr/23_Count_Largest_Group.cpp)
+- [Apr 24] [2799. Count Complete Subarrays in an Array](Apr/24_Count_Complete_Subarrays_in_an_Array.cpp)
 
 ### Structure
 
