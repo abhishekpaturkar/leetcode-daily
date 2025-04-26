@@ -130,6 +130,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 23] [1399. Count Largest Group](Apr/23_Count_Largest_Group.cpp)
 - [Apr 24] [2799. Count Complete Subarrays in an Array](Apr/24_Count_Complete_Subarrays_in_an_Array.cpp)
 - [Apr 25] [2845. Count of Interesting Subarrays](Apr/25_Count_of_Interesting_Subarrays.cpp)
+- [Apr 26] [2444. Count Subarrays With Fixed Bounds](Apr/26_Count_Subarrays_With_Fixed_Bounds.cpp)
 
 ### Structure
 
