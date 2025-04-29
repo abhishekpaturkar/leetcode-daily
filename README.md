@@ -133,6 +133,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 26] [2444. Count Subarrays With Fixed Bounds](Apr/26_Count_Subarrays_With_Fixed_Bounds.cpp)
 - [Apr 27] [3392. Count Subarrays of Length Three With a Condition](Apr/27_Count_Subarrays_of_Length_Three_With_a_Condition.cpp)
 - [Apr 28] [2302. Count Subarrays With Score Less Than K](Apr/28_Count_Subarrays_With_Score_Less_Than_K.cpp)
+- [Apr 29] [2962. Count Subarrays Where Max Element Appears at Least K Times](Apr/29_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.cpp)
 
 ### Structure
 
