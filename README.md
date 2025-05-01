@@ -136,6 +136,10 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 29] [2962. Count Subarrays Where Max Element Appears at Least K Times](Apr/29_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.cpp)
 - [Apr 30] [1295. Find Numbers with Even Number of Digits](Apr/30_Find_Numbers_with_Even_Number_of_Digits.cpp)
 
+### May April 2025
+
+- [May 1] [2071. Maximum Number of Tasks You Can Assign](May/01_Maximum_Number_of_Tasks_You_Can_Assign.cpp)
+
 ### Structure
 
 Each solution includes:
