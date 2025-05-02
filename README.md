@@ -139,6 +139,7 @@ A collection of daily LeetCode problems with solutions.
 ### May April 2025
 
 - [May 1] [2071. Maximum Number of Tasks You Can Assign](May/01_Maximum_Number_of_Tasks_You_Can_Assign.cpp)
+- [May 2] [838. Push Dominoes](May/02_Push_Dominoes.cpp)
 
 ### Structure
 
