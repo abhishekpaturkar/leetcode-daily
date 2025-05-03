@@ -140,6 +140,7 @@ A collection of daily LeetCode problems with solutions.
 
 - [May 1] [2071. Maximum Number of Tasks You Can Assign](May/01_Maximum_Number_of_Tasks_You_Can_Assign.cpp)
 - [May 2] [838. Push Dominoes](May/02_Push_Dominoes.cpp)
+- [May 3] [1007. Minimum Domino Rotations For Equal Row](May/03_Minimum_Domino_Rotations_For_Equal_Row.cpp)
 
 ### Structure
 
