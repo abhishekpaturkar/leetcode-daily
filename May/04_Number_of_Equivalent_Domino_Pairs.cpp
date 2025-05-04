@@ -4,7 +4,6 @@
 
 // Return the number of pairs (i, j) for which 0 <= i < j < dominoes.length, and dominoes[i] is equivalent to dominoes[j].
 
-
 // Example 1:
 
 // Input: dominoes = [[1,2],[2,1],[3,4],[5,6]]
@@ -13,7 +12,6 @@
 
 // Input: dominoes = [[1,2],[1,2],[1,1],[1,2],[2,2]]
 // Output: 3
- 
 
 // Constraints:
 
@@ -36,7 +34,8 @@ public:
         }
         return count;
     }
-};
+}; 
+
 
 /*
 This code finds the number of equivalent domino pairs in a given array of dominoes.
