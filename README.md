@@ -142,6 +142,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 2] [838. Push Dominoes](May/02_Push_Dominoes.cpp)
 - [May 3] [1007. Minimum Domino Rotations For Equal Row](May/03_Minimum_Domino_Rotations_For_Equal_Row.cpp)
 - [May 4] [1128. Number of Equivalent Domino Pairs](May/04_Number_of_Equivalent_Domino_Pairs.cpp)
+- [May 5] [790. Domino and Tromino Tiling](May/05_Domino_and_Tromino_Tiling.cpp)
 
 ### Structure
 
