@@ -144,6 +144,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 4] [1128. Number of Equivalent Domino Pairs](May/04_Number_of_Equivalent_Domino_Pairs.cpp)
 - [May 5] [790. Domino and Tromino Tiling](May/05_Domino_and_Tromino_Tiling.cpp)
 - [May 6] [1920. Build Array from Permutation](May/06_Build_Array_from_Permutation.cpp)
+- [May 7] [3341. Find Minimum Time to Reach Last Room I](May/07_Find_Minimum_Time_to_Reach_Last_Room_I.cpp)
 
 ### Structure
 
