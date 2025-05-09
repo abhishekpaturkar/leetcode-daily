@@ -146,6 +146,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 6] [1920. Build Array from Permutation](May/06_Build_Array_from_Permutation.cpp)
 - [May 7] [3341. Find Minimum Time to Reach Last Room I](May/07_Find_Minimum_Time_to_Reach_Last_Room_I.cpp)
 - [May 8] [3342. Find Minimum Time to Reach Last Room II](May/08_Find_Minimum_Time_to_Reach_Last_Room_II.cpp)
+- [May 9] [3343. Count Number of Balanced Permutations](May/09_Count_Number_of_Balanced_Permutations.cpp)
 
 ### Structure
 

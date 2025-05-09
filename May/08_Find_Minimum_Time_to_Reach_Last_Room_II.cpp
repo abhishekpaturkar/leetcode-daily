@@ -42,8 +42,6 @@
 
 // Output: 4
 
- 
-
 // Constraints:
 
 // 2 <= n == moveTime.length <= 750
