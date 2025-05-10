@@ -147,6 +147,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 7] [3341. Find Minimum Time to Reach Last Room I](May/07_Find_Minimum_Time_to_Reach_Last_Room_I.cpp)
 - [May 8] [3342. Find Minimum Time to Reach Last Room II](May/08_Find_Minimum_Time_to_Reach_Last_Room_II.cpp)
 - [May 9] [3343. Count Number of Balanced Permutations](May/09_Count_Number_of_Balanced_Permutations.cpp)
+- [May 10] [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](May/10_Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.cpp)
 
 ### Structure
 
