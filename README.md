@@ -151,6 +151,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 11] [1550. Three Consecutive Odds](May/11_Three_Consecutive_Odds.cpp)
 - [May 12] [2094. Finding 3-Digit Even Numbers](May/12_Finding_3-Digit_Even_Numbers.cpp)
 - [May 13] [3335. Total Characters in String After Transformations I](May/13_Total_Characters_in_String_After_Transformations_I.cpp)
+- [May 14] [3337. Total Characters in String After Transformations II](May/14_Total_Characters_in_String_After_Transformations_II.cpp)
 
 ### Structure
 
