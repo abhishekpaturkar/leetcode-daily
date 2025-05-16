@@ -153,6 +153,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 13] [3335. Total Characters in String After Transformations I](May/13_Total_Characters_in_String_After_Transformations_I.cpp)
 - [May 14] [3337. Total Characters in String After Transformations II](May/14_Total_Characters_in_String_After_Transformations_II.cpp)
 - [May 15] [2900. Longest Unequal Adjacent Groups Subsequence I](May/15_Longest_Unequal_Adjacent_Groups_Subsequence_I.cpp)
+- [May 16] [2901. Longest Unequal Adjacent Groups Subsequence II](May/16_Longest_Unequal_Adjacent_Groups_Subsequence_II.cpp)
 
 ### Structure
 
