@@ -156,6 +156,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 16] [2901. Longest Unequal Adjacent Groups Subsequence II](May/16_Longest_Unequal_Adjacent_Groups_Subsequence_II.cpp)
 - [May 17] [75. Sort Colors](May/17_Sort_Colors.cpp)
 - [May 18] [1931. Painting a Grid With Three Different Colors](May/18_Painting_a_Grid_With_Three_Different_Colors.cpp)
+- [May 19] [3024. Type of Triangle](May/19_Type_of_Triangle.cpp)
 
 ### Structure
 
