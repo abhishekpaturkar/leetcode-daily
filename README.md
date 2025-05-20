@@ -157,6 +157,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 17] [75. Sort Colors](May/17_Sort_Colors.cpp)
 - [May 18] [1931. Painting a Grid With Three Different Colors](May/18_Painting_a_Grid_With_Three_Different_Colors.cpp)
 - [May 19] [3024. Type of Triangle](May/19_Type_of_Triangle.cpp)
+- [May 20] [3355. Zero Array Transformation I](May/20_Zero_Array_Transformation_I.cpp)
 
 ### Structure
 
