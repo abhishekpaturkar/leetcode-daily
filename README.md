@@ -160,6 +160,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 20] [3355. Zero Array Transformation I](May/20_Zero_Array_Transformation_I.cpp)
 - [May 21] [73. Set Matrix Zeroes](May/21_Set_Matrix_Zeroes.cpp)
 - [May 22] [3362. Zero Array Transformation III](May/22_Zero_Array_Transformation_III.cpp)
+- [May 23] [3068. Find the Maximum Sum of Node Values](May/23_Find_the_Maximum_Sum_of_Node_Values.cpp)
 
 ### Structure
 
