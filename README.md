@@ -163,6 +163,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 23] [3068. Find the Maximum Sum of Node Values](May/23_Find_the_Maximum_Sum_of_Node_Values.cpp)
 - [May 24] [2942. Find Words Containing Character](May/24_Find_Words_Containing_Character.cpp)
 - [May 25] [2131. Longest Palindrome by Concatenating Two Letter Words](May/25_Longest_Palindrome_by_Concatenating_Two_Letter_Words.cpp)
+- [May 26] [1857. Largest Color Value in a Directed Graph](May/26_Largest_Color_Value_in_a_Directed_Graph.cpp)
 
 ### Structure
 
