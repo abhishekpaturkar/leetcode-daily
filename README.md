@@ -164,6 +164,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 24] [2942. Find Words Containing Character](May/24_Find_Words_Containing_Character.cpp)
 - [May 25] [2131. Longest Palindrome by Concatenating Two Letter Words](May/25_Longest_Palindrome_by_Concatenating_Two_Letter_Words.cpp)
 - [May 26] [1857. Largest Color Value in a Directed Graph](May/26_Largest_Color_Value_in_a_Directed_Graph.cpp)
+- [May 27] [2894. Divisible and Non-divisible Sums Difference](May/27_Divisible_and_Non-divisible_Sums_Difference.cpp)
 
 ### Structure
 
