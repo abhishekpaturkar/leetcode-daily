@@ -166,6 +166,7 @@ A collection of daily LeetCode problems with solutions.
 - [May 26] [1857. Largest Color Value in a Directed Graph](May/26_Largest_Color_Value_in_a_Directed_Graph.cpp)
 - [May 27] [2894. Divisible and Non-divisible Sums Difference](May/27_Divisible_and_Non-divisible_Sums_Difference.cpp)
 - [May 28] [3372. Maximize the Number of Target Nodes After Connecting Trees I](May/28_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_I.cpp)
+- [May 29] [3373. Maximize the Number of Target Nodes After Connecting Trees II](May/29_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_II.cpp)
 
 ### Structure
 
