@@ -136,7 +136,7 @@ A collection of daily LeetCode problems with solutions.
 - [Apr 29] [2962. Count Subarrays Where Max Element Appears at Least K Times](Apr/29_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.cpp)
 - [Apr 30] [1295. Find Numbers with Even Number of Digits](Apr/30_Find_Numbers_with_Even_Number_of_Digits.cpp)
 
-### May April 2025
+### May 2025
 
 - [May 1] [2071. Maximum Number of Tasks You Can Assign](May/01_Maximum_Number_of_Tasks_You_Can_Assign.cpp)
 - [May 2] [838. Push Dominoes](May/02_Push_Dominoes.cpp)
@@ -169,6 +169,10 @@ A collection of daily LeetCode problems with solutions.
 - [May 29] [3373. Maximize the Number of Target Nodes After Connecting Trees II](May/29_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_II.cpp)
 - [May 30] [2359. Find Closest Node to Given Two Nodes](May/30_Find_Closest_Node_to_Given_Two_Nodes.cpp)
 - [May 31] [909. Snakes and Ladders](May/31_Snakes_and_Ladders.cpp)
+
+### June 2025
+
+- [Jun 1] [2929. Distribute Candies Among Children II](Jun/01_Distribute_Candies_Among_Children_II.cpp)
 
 ### Structure
 
