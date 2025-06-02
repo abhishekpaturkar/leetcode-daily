@@ -173,6 +173,7 @@ A collection of daily LeetCode problems with solutions.
 ### June 2025
 
 - [Jun 1] [2929. Distribute Candies Among Children II](Jun/01_Distribute_Candies_Among_Children_II.cpp)
+- [Jun 2] [135. Candy](Jun/02_Candy.cpp)
 
 ### Structure
 
