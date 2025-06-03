@@ -174,6 +174,7 @@ A collection of daily LeetCode problems with solutions.
 
 - [Jun 1] [2929. Distribute Candies Among Children II](Jun/01_Distribute_Candies_Among_Children_II.cpp)
 - [Jun 2] [135. Candy](Jun/02_Candy.cpp)
+- [Jun 3] [1298. Maximum Candies You Can Get from Boxes](Jun/03_Maximum_Candies_You_Can_Get_from_Boxes.cpp)
 
 ### Structure
 
