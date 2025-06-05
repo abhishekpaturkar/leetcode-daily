@@ -176,6 +176,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 2] [135. Candy](Jun/02_Candy.cpp)
 - [Jun 3] [1298. Maximum Candies You Can Get from Boxes](Jun/03_Maximum_Candies_You_Can_Get_from_Boxes.cpp)
 - [Jun 4] [3403. Find the Lexicographically Largest String From the Box I](Jun/04_Find_the_Lexicographically_Largest_String_From_the_Box_I.cpp)
+- [Jun 5] [1061. Lexicographically Smallest Equivalent String](Jun/05_Lexicographically_Smallest_Equivalent_String.cpp)
 
 ### Structure
 
