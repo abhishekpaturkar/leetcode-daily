@@ -175,6 +175,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 1] [2929. Distribute Candies Among Children II](Jun/01_Distribute_Candies_Among_Children_II.cpp)
 - [Jun 2] [135. Candy](Jun/02_Candy.cpp)
 - [Jun 3] [1298. Maximum Candies You Can Get from Boxes](Jun/03_Maximum_Candies_You_Can_Get_from_Boxes.cpp)
+- [Jun 4] [3403. Find the Lexicographically Largest String From the Box I](Jun/04_Find_the_Lexicographically_Largest_String_From_the_Box_I.cpp)
 
 ### Structure
 
