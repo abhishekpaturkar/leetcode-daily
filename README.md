@@ -178,6 +178,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 4] [3403. Find the Lexicographically Largest String From the Box I](Jun/04_Find_the_Lexicographically_Largest_String_From_the_Box_I.cpp)
 - [Jun 5] [1061. Lexicographically Smallest Equivalent String](Jun/05_Lexicographically_Smallest_Equivalent_String.cpp)
 - [Jun 6] [2434. Using a Robot to Print the Lexicographically Smallest String](Jun/06_Using_a_Robot_to_Print_the_Lexicographically_Smallest_String.cpp)
+- [Jun 7] [3170. Lexicographically Minimum String After Removing Stars](Jun/07_Lexicographically_Minimum_String_After_Removing_Stars.cpp)
 
 ### Structure
 
