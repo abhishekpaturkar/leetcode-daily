@@ -183,6 +183,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 9] [440. K-th Smallest in Lexicographical Order](Jun/09_Kth_Smallest_in_Lexicographical_Order.cpp)
 - [Jun 10] [3442. Maximum Difference Between Even and Odd Frequency I](Jun/10_Maximum_Difference_Between_Even_and_Odd_Frequency_I.cpp)
 - [Jun 11] [3445. Maximum Difference Between Even and Odd Frequency II](Jun/11_Maximum_Difference_Between_Even_and_Odd_Frequency_II.cpp)
+- [Jun 12] [3423. Maximum Difference Between Adjacent Elements in a Circular Array](Jun/12_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.cpp)
 
 ### Structure
 
