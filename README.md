@@ -186,6 +186,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 12] [3423. Maximum Difference Between Adjacent Elements in a Circular Array](Jun/12_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.cpp)
 - [Jun 13] [2616. Minimize the Maximum Difference of Pairs](Jun/13_Minimize_the_Maximum_Difference_of_Pairs.cpp)
 - [Jun 14] [2566. Maximum Difference by Remapping a Digit](Jun/14_Maximum_Difference_by_Remapping_a_Digit.cpp)
+- [Jun 15] [1432. Max Difference You Can Get From Changing an Integer](Jun/15_Max_Difference_You_Can_Get_From_Changing_an_Integer.cpp)
 
 ### Structure
 
