@@ -188,6 +188,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 14] [2566. Maximum Difference by Remapping a Digit](Jun/14_Maximum_Difference_by_Remapping_a_Digit.cpp)
 - [Jun 15] [1432. Max Difference You Can Get From Changing an Integer](Jun/15_Max_Difference_You_Can_Get_From_Changing_an_Integer.cpp)
 - [Jun 16] [2016. Maximum Difference Between Increasing Elements](Jun/16_Maximum_Difference_Between_Increasing_Elements.cpp)
+- [Jun 17] [3405. Count the Number of Arrays with K Matching Adjacent Elements](Jun/17_Coun_the_Number_of_Arrays_with_K_Matching_Adjacent_Elements.cpp)
 
 ### Structure
 
