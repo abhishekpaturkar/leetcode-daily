@@ -190,6 +190,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 16] [2016. Maximum Difference Between Increasing Elements](Jun/16_Maximum_Difference_Between_Increasing_Elements.cpp)
 - [Jun 17] [3405. Count the Number of Arrays with K Matching Adjacent Elements](Jun/17_Coun_the_Number_of_Arrays_with_K_Matching_Adjacent_Elements.cpp)
 - [Jun 18] [2966. Divide Array Into Arrays With Max Difference](Jun/18_Divide_Array_Into_Arrays_With_Max_Difference.cpp)
+- [Jun 19] [2294. Partition Array Such That Maximum Difference Is K](Jun/19_Partition_Array_Such_That_Maximum_Difference_Is_K.cpp)
 
 ### Structure
 
