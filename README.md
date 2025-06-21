@@ -192,6 +192,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 18] [2966. Divide Array Into Arrays With Max Difference](Jun/18_Divide_Array_Into_Arrays_With_Max_Difference.cpp)
 - [Jun 19] [2294. Partition Array Such That Maximum Difference Is K](Jun/19_Partition_Array_Such_That_Maximum_Difference_Is_K.cpp)
 - [Jun 20] [3443. Maximum Manhattan Distance After K Changes](Jun/20_Maximum_Manhattan_Distance_After_K_Changes.cpp)
+- [Jun 21] [3085. Minimum Deletions to Make String K-Special](Jun/21_Minimum_Deletions_to_Make_String_K-Special.cpp)
 
 ### Structure
 
