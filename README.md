@@ -194,6 +194,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 20] [3443. Maximum Manhattan Distance After K Changes](Jun/20_Maximum_Manhattan_Distance_After_K_Changes.cpp)
 - [Jun 21] [3085. Minimum Deletions to Make String K-Special](Jun/21_Minimum_Deletions_to_Make_String_K-Special.cpp)
 - [Jun 22] [2138. Divide a String Into Groups of Size k](Jun/22_Divide_a_String_Into_Groups_of_Size_k.cpp)
+- [Jun 23] [2081. Sum of k-Mirror Numbers](Jun/23_Sum_of_k-Mirror_Numbers.cpp)
 
 ### Structure
 
