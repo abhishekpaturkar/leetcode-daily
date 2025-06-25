@@ -196,6 +196,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 22] [2138. Divide a String Into Groups of Size k](Jun/22_Divide_a_String_Into_Groups_of_Size_k.cpp)
 - [Jun 23] [2081. Sum of k-Mirror Numbers](Jun/23_Sum_of_k-Mirror_Numbers.cpp)
 - [Jun 24] [2200. Find All K-Distant Indices in an Array](Jun/24_Find_All_K-Distant_Indices_in_an_Array.cpp)
+- [Jun 25] [2040. Kth Smallest Product of Two Sorted Arrays](Jun/25_Kth_Smallest_Product_of_Two_Sorted_Arrays.cpp)
 
 ### Structure
 
