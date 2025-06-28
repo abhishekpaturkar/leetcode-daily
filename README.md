@@ -199,6 +199,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 25] [2040. Kth Smallest Product of Two Sorted Arrays](Jun/25_Kth_Smallest_Product_of_Two_Sorted_Arrays.cpp)
 - [Jun 26] [2311. Longest Binary Subsequence Less Than or Equal to K](Jun/26_Longest_Binary_Subsequence_Less_Than_or_Equal_to_K.cpp)
 - [Jun 27] [2014. Longest Subsequence Repeated k Times](Jun/27_Longest_Subsequence_Repeated_k_Times.cpp)
+- [Jun 28] [2099. Find Subsequence of Length K With the Largest Sum](Jun/28_Find_Subsequence_of_Length_K_With_the_Largest_Sum.cpp)
 
 ### Structure
 
