@@ -201,6 +201,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 27] [2014. Longest Subsequence Repeated k Times](Jun/27_Longest_Subsequence_Repeated_k_Times.cpp)
 - [Jun 28] [2099. Find Subsequence of Length K With the Largest Sum](Jun/28_Find_Subsequence_of_Length_K_With_the_Largest_Sum.cpp)
 - [Jun 29] [1498. Number of Subsequences That Satisfy the Given Sum Condition](Jun/29_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.cpp)
+- [Jun 30] [594. Longest Harmonious Subsequence](Jun/30_Longest_Harmonious_Subsequence.cpp)
 
 ### Structure
 
