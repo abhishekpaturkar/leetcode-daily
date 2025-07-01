@@ -203,6 +203,10 @@ A collection of daily LeetCode problems with solutions.
 - [Jun 29] [1498. Number of Subsequences That Satisfy the Given Sum Condition](Jun/29_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.cpp)
 - [Jun 30] [594. Longest Harmonious Subsequence](Jun/30_Longest_Harmonious_Subsequence.cpp)
 
+### July 2025
+
+- [Jul 1] [3330. Find the Original Typed String I](Jul/01_Find_the_Original_Typed_String_I.cpp)
+
 ### Structure
 
 Each solution includes:
