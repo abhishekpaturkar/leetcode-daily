@@ -206,6 +206,7 @@ A collection of daily LeetCode problems with solutions.
 ### July 2025
 
 - [Jul 1] [3330. Find the Original Typed String I](Jul/01_Find_the_Original_Typed_String_I.cpp)
+- [Jul 2] [3333. Find the Original Typed String II](Jul/02_Find_the_Original_Typed_String_II.cpp)
 
 ### Structure
 
