@@ -209,6 +209,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 2] [3333. Find the Original Typed String II](Jul/02_Find_the_Original_Typed_String_II.cpp)
 - [Jul 3] [3304. Find the K-th Character in String Game I](Jul/03_Find_the_K-th_Character_in_String_Game_I.cpp)
 - [Jul 4] [3307. Find the K-th Character in String Game II](Jul/04_Find_the_K-th_Character_in_String_Game_II.cpp)
+- [Jul 5] [1394. Find Lucky Integer in an Array](Jul/05_Find_Lucky_Integer_in_an_Array.cpp)
 
 ### Structure
 
