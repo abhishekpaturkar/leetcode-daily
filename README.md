@@ -211,6 +211,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 4] [3307. Find the K-th Character in String Game II](Jul/04_Find_the_K-th_Character_in_String_Game_II.cpp)
 - [Jul 5] [1394. Find Lucky Integer in an Array](Jul/05_Find_Lucky_Integer_in_an_Array.cpp)
 - [Jul 6] [1865. Finding Pairs With a Certain Sum](Jul/06_Finding_Pairs_With_a_Certain_Sum.cpp)
+- [Jul 7] [1353. Maximum Number of Events That Can Be Attended](Jul/07_Maximum_Number_of_Events_That_Can_Be_Attended.cpp)
 
 ### Structure
 
