@@ -213,6 +213,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 6] [1865. Finding Pairs With a Certain Sum](Jul/06_Finding_Pairs_With_a_Certain_Sum.cpp)
 - [Jul 7] [1353. Maximum Number of Events That Can Be Attended](Jul/07_Maximum_Number_of_Events_That_Can_Be_Attended.cpp)
 - [Jul 8] [1751. Maximum Number of Events That Can Be Attended II](Jul/08_Maximum_Number_of_Events_That_Can_Be_Attended_II.cpp)
+- [Jul 9] [3439. Reschedule Meetings for Maximum Free Time I](Jul/09_Reschedule_Meetings_for_Maximum_Free_Time_I.cpp)
 
 ### Structure
 
