@@ -215,6 +215,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 8] [1751. Maximum Number of Events That Can Be Attended II](Jul/08_Maximum_Number_of_Events_That_Can_Be_Attended_II.cpp)
 - [Jul 9] [3439. Reschedule Meetings for Maximum Free Time I](Jul/09_Reschedule_Meetings_for_Maximum_Free_Time_I.cpp)
 - [Jul 10] [3440. Reschedule Meetings for Maximum Free Time II](Jul/10_Reschedule_Meetings_for_Maximum_Free_Time_II.cpp)
+- [Jul 11] [2402. Meeting Rooms III](Jul/11_Meeting_Rooms_III.cpp)
 
 ### Structure
 
