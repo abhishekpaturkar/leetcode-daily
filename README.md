@@ -217,6 +217,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 10] [3440. Reschedule Meetings for Maximum Free Time II](Jul/10_Reschedule_Meetings_for_Maximum_Free_Time_II.cpp)
 - [Jul 11] [2402. Meeting Rooms III](Jul/11_Meeting_Rooms_III.cpp)
 - [Jul 12] [1900. The Earliest and Latest Rounds Where Players Compete](Jul/12_The_Earliest_and_Latest_Rounds_Where_Players_Compete.cpp)
+- [Jul 13] [2410. Maximum Matching of Players With Trainers](Jul/12_The_Earliest_and_Latest_Rounds_Where_Players_Compete.cpp)
 
 ### Structure
 
