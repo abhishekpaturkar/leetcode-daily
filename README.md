@@ -218,6 +218,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 11] [2402. Meeting Rooms III](Jul/11_Meeting_Rooms_III.cpp)
 - [Jul 12] [1900. The Earliest and Latest Rounds Where Players Compete](Jul/12_The_Earliest_and_Latest_Rounds_Where_Players_Compete.cpp)
 - [Jul 13] [2410. Maximum Matching of Players With Trainers](Jul/12_The_Earliest_and_Latest_Rounds_Where_Players_Compete.cpp)
+- [Jul 14] [1290. Convert Binary Number in a Linked List to Integer](Jul/14_Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp)
 
 ### Structure
 
