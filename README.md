@@ -222,6 +222,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 15] [3136. Valid Word](Jul/15_Valid_Word.cpp)
 - [Jul 16] [3201. Find the Maximum Length of Valid Subsequence I](Jul/16_Find_the_Maximum_Length_of_Valid_Subsequence_I.cpp)
 - [Jul 17] [3202. Find the Maximum Length of Valid Subsequence II](Jul/17_Find_the_Maximum_Length_of_Valid_Subsequence_II.cpp)
+- [Jul 18] [2163. Minimum Difference in Sums After Removal of Elements](Jul/18_Minimum_Difference_in_Sums_After_Removal_of_Elements.cpp)
 
 ### Structure
 
