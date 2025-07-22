@@ -225,6 +225,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 18] [2163. Minimum Difference in Sums After Removal of Elements](Jul/18_Minimum_Difference_in_Sums_After_Removal_of_Elements.cpp)
 - [Jul 19] [1233. Remove Sub-Folders from the Filesystem](JUl/19_Remove_Sub-Folders_from_the_Filesystem.cpp)
 - [Jul 20] [1948. Delete Duplicate Folders in System](Jul/20_Delete_Duplicate_Folders_in_System.cpp)
+- [Jul 22] [1695. Maximum Erasure Value](Jul/22_Maximum_Erasure_Value.cpp)
 
 ### Structure
 
