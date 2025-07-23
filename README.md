@@ -226,6 +226,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 19] [1233. Remove Sub-Folders from the Filesystem](JUl/19_Remove_Sub-Folders_from_the_Filesystem.cpp)
 - [Jul 20] [1948. Delete Duplicate Folders in System](Jul/20_Delete_Duplicate_Folders_in_System.cpp)
 - [Jul 22] [1695. Maximum Erasure Value](Jul/22_Maximum_Erasure_Value.cpp)
+- [Jul 23] [1717. Maximum Score From Removing Substrings](Jul/23_Maximum_Score_From_Removing_Substrings.cpp)
 
 ### Structure
 
