@@ -227,6 +227,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 20] [1948. Delete Duplicate Folders in System](Jul/20_Delete_Duplicate_Folders_in_System.cpp)
 - [Jul 22] [1695. Maximum Erasure Value](Jul/22_Maximum_Erasure_Value.cpp)
 - [Jul 23] [1717. Maximum Score From Removing Substrings](Jul/23_Maximum_Score_From_Removing_Substrings.cpp)
+- [Jul 24] [2322. Minimum Score After Removals on a Tree](Jul/24_Minimum_Score_After_Removals_on_a_Tree.cpp)
 
 ### Structure
 
