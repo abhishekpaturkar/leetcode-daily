@@ -230,6 +230,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 24] [2322. Minimum Score After Removals on a Tree](Jul/24_Minimum_Score_After_Removals_on_a_Tree.cpp)
 - [Jul 25] [3487. Maximum Unique Subarray Sum After Deletion](Jul/25_Maximum_Unique_Subarray_Sum_After_Deletion.cpp)
 - [Jul 26] [3480. Maximize Subarrays After Removing One Conflicting Pair](Jul/26_Maximize_Subarrays_After_Removing_One_Conflicting_Pair.cpp)
+- [Jul 27] [2210. Count Hills and Valleys in an Array](Jul/27_Count_Hills_and_Valleys_in_an_Array.cpp)
 
 ### Structure
 
