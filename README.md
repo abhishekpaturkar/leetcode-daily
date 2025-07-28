@@ -231,6 +231,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 25] [3487. Maximum Unique Subarray Sum After Deletion](Jul/25_Maximum_Unique_Subarray_Sum_After_Deletion.cpp)
 - [Jul 26] [3480. Maximize Subarrays After Removing One Conflicting Pair](Jul/26_Maximize_Subarrays_After_Removing_One_Conflicting_Pair.cpp)
 - [Jul 27] [2210. Count Hills and Valleys in an Array](Jul/27_Count_Hills_and_Valleys_in_an_Array.cpp)
+- [Jul 28] [2044. Count Number of Maximum Bitwise-OR Subsets](Jul/28_Count_Number_of_Maximum_Bitwise_OR_Subsets.cpp)
 
 ### Structure
 
