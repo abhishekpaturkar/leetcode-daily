@@ -234,6 +234,7 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 28] [2044. Count Number of Maximum Bitwise-OR Subsets](Jul/28_Count_Number_of_Maximum_Bitwise_OR_Subsets.cpp)
 - [Jul 29] [2411. Smallest Subarrays With Maximum Bitwise OR](Jul/29_Smallest_Subarrays_With_Maximum_Bitwise_OR.cpp)
 - [Jul 30] [2419. Longest Subarray With Maximum Bitwise AND](Jul/30_Longest_Subarray_With_Maximum_Bitwise_AND.cpp)
+- [Jul 31] [898. Bitwise ORs of Subarrays](Jul/31_Bitwise_ORs_of_Subarrays.cpp)
 
 ### Structure
 
