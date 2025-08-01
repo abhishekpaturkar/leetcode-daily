@@ -237,6 +237,10 @@ A collection of daily LeetCode problems with solutions.
 - [Jul 30] [2419. Longest Subarray With Maximum Bitwise AND](Jul/30_Longest_Subarray_With_Maximum_Bitwise_AND.cpp)
 - [Jul 31] [898. Bitwise ORs of Subarrays](Jul/31_Bitwise_ORs_of_Subarrays.cpp)
 
+### Augest 2025
+
+- [Aug 1] [118. Pascal's Triangle](Aug/01_Pascal's_Triangle.cpp)
+
 ### Structure
 
 Each solution includes:
