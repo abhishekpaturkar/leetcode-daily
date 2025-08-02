@@ -240,6 +240,7 @@ A collection of daily LeetCode problems with solutions.
 ### Augest 2025
 
 - [Aug 1] [118. Pascal's Triangle](Aug/01_Pascal's_Triangle.cpp)
+- [Aug 2] [2561. Rearranging Fruits](Aug/02_Rearranging_Fruits.cpp)
 
 ### Structure
 
