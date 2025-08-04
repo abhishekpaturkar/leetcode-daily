@@ -242,6 +242,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 1] [118. Pascal's Triangle](Aug/01_Pascal's_Triangle.cpp)
 - [Aug 2] [2561. Rearranging Fruits](Aug/02_Rearranging_Fruits.cpp)
 - [Aug 3] [2106. Maximum Fruits Harvested After at Most K Steps](Aug/03_Maximum_Fruits_Harvested_After_at_Most_K_Steps.cpp)
+- [Aug 4] [904. Fruit Into Baskets](Aug/)
 
 ### Structure
 
