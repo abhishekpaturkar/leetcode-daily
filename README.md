@@ -244,6 +244,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 3] [2106. Maximum Fruits Harvested After at Most K Steps](Aug/03_Maximum_Fruits_Harvested_After_at_Most_K_Steps.cpp)
 - [Aug 4] [904. Fruit Into Baskets](Aug/04_Fruit_Into_Baskets.cpp)
 - [Aug 5] [3477. Fruits Into Baskets II](Aug/05_Fruits_Into_Baskets_II.cpp)
+- [Aug 6] [3479. Fruits Into Baskets III](Aug/06_Fruits_Into_Baskets_III.cpp)
 
 ### Structure
 
