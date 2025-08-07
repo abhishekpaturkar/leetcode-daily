@@ -245,6 +245,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 4] [904. Fruit Into Baskets](Aug/04_Fruit_Into_Baskets.cpp)
 - [Aug 5] [3477. Fruits Into Baskets II](Aug/05_Fruits_Into_Baskets_II.cpp)
 - [Aug 6] [3479. Fruits Into Baskets III](Aug/06_Fruits_Into_Baskets_III.cpp)
+- [Aug 7] [3363. Find the Maximum Number of Fruits Collected](Aug/07_Find_the_Maximum_Number_of_Fruits_Collected.cpp)
 
 ### Structure
 
