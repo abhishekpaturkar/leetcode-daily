@@ -248,6 +248,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 7] [3363. Find the Maximum Number of Fruits Collected](Aug/07_Find_the_Maximum_Number_of_Fruits_Collected.cpp)
 - [Aug 8] [808. Soup Servings](Aug/08_Soup_Servings.cpp)
 - [Aug 9] [231. Power of Two](Aug/09_Power_of_Two.cpp)
+- [Aug 10] [869. Reordered Power of 2](Aug/10_Reordered_Power_of_2.cpp)
 
 ### Structure
 
