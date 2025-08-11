@@ -249,6 +249,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 8] [808. Soup Servings](Aug/08_Soup_Servings.cpp)
 - [Aug 9] [231. Power of Two](Aug/09_Power_of_Two.cpp)
 - [Aug 10] [869. Reordered Power of 2](Aug/10_Reordered_Power_of_2.cpp)
+- [Aug 11] [2438. Range Product Queries of Powers](Aug/11_Range_Product_Queries_of_Powers.cpp)
 
 ### Structure
 
