@@ -252,6 +252,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 11] [2438. Range Product Queries of Powers](Aug/11_Range_Product_Queries_of_Powers.cpp)
 - [Aug 12] [2787. Ways to Express an Integer as Sum of Powers](Aug/12_Ways_to_Express_an_Integer_as_Sum_of_Powers.cpp)
 - [Aug 13] [326. Power of Three](AUg/13_Power_of_Three.cpp)
+- [Aug 14] [2264. Largest 3-Same-Digit Number in String](Aug/14_Largest_3-Same-Digit_Number_in_String.cpp)
 
 ### Structure
 
