@@ -255,6 +255,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 14] [2264. Largest 3-Same-Digit Number in String](Aug/14_Largest_3-Same-Digit_Number_in_String.cpp)
 - [Aug 15] [342. Power of Four](Aug/15_Power_of_Four.cpp)
 - [Aug 16] [1323. Maximum 69 Number](Aug/16_Maximum_69_Number.cpp)
+- [Aug 17] [837. New 21 Game](Aug/17_New_21_Game.cpp)
 
 ### Structure
 
