@@ -256,6 +256,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 15] [342. Power of Four](Aug/15_Power_of_Four.cpp)
 - [Aug 16] [1323. Maximum 69 Number](Aug/16_Maximum_69_Number.cpp)
 - [Aug 17] [837. New 21 Game](Aug/17_New_21_Game.cpp)
+- [Aug 18] [679. 24 Game](Aug/18_24_Game.cpp)
 
 ### Structure
 
