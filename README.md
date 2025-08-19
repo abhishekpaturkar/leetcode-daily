@@ -257,6 +257,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 16] [1323. Maximum 69 Number](Aug/16_Maximum_69_Number.cpp)
 - [Aug 17] [837. New 21 Game](Aug/17_New_21_Game.cpp)
 - [Aug 18] [679. 24 Game](Aug/18_24_Game.cpp)
+- [Aug 19] [2348. Number of Zero-Filled Subarrays](Aug/19_Number_of_Zero-Filled_Subarrays.cpp)
 
 ### Structure
 
