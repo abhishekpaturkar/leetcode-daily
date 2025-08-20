@@ -258,6 +258,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 17] [837. New 21 Game](Aug/17_New_21_Game.cpp)
 - [Aug 18] [679. 24 Game](Aug/18_24_Game.cpp)
 - [Aug 19] [2348. Number of Zero-Filled Subarrays](Aug/19_Number_of_Zero-Filled_Subarrays.cpp)
+- [Aug 20] [1277. Count Square Submatrices with All Ones](Aug/20_Count_Square_Submatrices_with_All_Ones.cpp)
 
 ### Structure
 
