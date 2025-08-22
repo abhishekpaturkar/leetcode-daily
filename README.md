@@ -260,6 +260,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 19] [2348. Number of Zero-Filled Subarrays](Aug/19_Number_of_Zero-Filled_Subarrays.cpp)
 - [Aug 20] [1277. Count Square Submatrices with All Ones](Aug/20_Count_Square_Submatrices_with_All_Ones.cpp)
 - [Aug 21] [1504. Count Submatrices With All Ones](Aug/21_Count_Submatrices_With_All_Ones.cpp)
+- [Aug 22] [3195. Find the Minimum Area to Cover All Ones I](Aug/22_Find_the_Minimum_Area_to_Cover_All_Ones_I.cpp)
 
 ### Structure
 
