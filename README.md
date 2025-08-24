@@ -262,6 +262,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 21] [1504. Count Submatrices With All Ones](Aug/21_Count_Submatrices_With_All_Ones.cpp)
 - [Aug 22] [3195. Find the Minimum Area to Cover All Ones I](Aug/22_Find_the_Minimum_Area_to_Cover_All_Ones_I.cpp)
 - [Aug 23] [3197. Find the Minimum Area to Cover All Ones II](Aug/23_Find_the_Minimum_Area_to_Cover_All_Ones_II.cpp)
+- [Aug 24] [1493. Longest Subarray of 1's After Deleting One Element](Aug/24_Longest_Subarray_of_1's_After_Deleting_One_Element.cpp)
 
 ### Structure
 
