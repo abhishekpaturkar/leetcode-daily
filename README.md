@@ -265,6 +265,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 24] [1493. Longest Subarray of 1's After Deleting One Element](Aug/24_Longest_Subarray_of_1's_After_Deleting_One_Element.cpp)
 - [Aug 25] [498. Diagonal Traverse](Aug/25_Diagonal_Traverse.cpp)
 - [Aug 26] [3000. Maximum Area of Longest Diagonal Rectangle](Aug/26_Maximum_Area_of_Longest_Diagonal_Rectangle.cpp)
+- [Aug 27] [3459. Length of Longest V-Shaped Diagonal Segment](Aug/27_Length_of_Longest_V-Shaped_Diagonal_Segment.cpp)
 
 ### Structure
 
