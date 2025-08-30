@@ -268,6 +268,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 27] [3459. Length of Longest V-Shaped Diagonal Segment](Aug/27_Length_of_Longest_V-Shaped_Diagonal_Segment.cpp)
 - [Aug 28] [3446. Sort Matrix by Diagonals](Aug/28_Sort_Matrix_by_Diagonals.cpp)
 - [Aug 29] [3021. Alice and Bob Playing Flower Game](Aug/29_Alice_and_Bob_Playing_Flower_Game.cpp)
+- [Aug 30] [36. Valid Sudoku](Aug/30_Valid_Sudoku.cpp)
 
 ### Structure
 
