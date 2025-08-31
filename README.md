@@ -269,6 +269,7 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 28] [3446. Sort Matrix by Diagonals](Aug/28_Sort_Matrix_by_Diagonals.cpp)
 - [Aug 29] [3021. Alice and Bob Playing Flower Game](Aug/29_Alice_and_Bob_Playing_Flower_Game.cpp)
 - [Aug 30] [36. Valid Sudoku](Aug/30_Valid_Sudoku.cpp)
+- [Aug 31] [37. Sudoku Solver](Aug/31_Sudoku_Solver.cpp)
 
 ### Structure
 
