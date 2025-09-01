@@ -271,6 +271,10 @@ A collection of daily LeetCode problems with solutions.
 - [Aug 30] [36. Valid Sudoku](Aug/30_Valid_Sudoku.cpp)
 - [Aug 31] [37. Sudoku Solver](Aug/31_Sudoku_Solver.cpp)
 
+### September 2025
+
+- [Sep 1] [1792. Maximum Average Pass Ratio](Sep/01_Maximum_Average_Pass_Ratio.cpp)
+
 ### Structure
 
 Each solution includes:
