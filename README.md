@@ -276,6 +276,7 @@ A collection of daily LeetCode problems with solutions.
 - [Sep 1] [1792. Maximum Average Pass Ratio](Sep/01_Maximum_Average_Pass_Ratio.cpp)
 - [Sep 2] [3025. Find the Number of Ways to Place People I](Sep/02_Find_the_Number_of_Ways_to_Place_People_I.cpp)
 - [Sep 3] [3027. Find the Number of Ways to Place People II](Sep/03_Find_the_Number_of_Ways_to_Place_People_II.cpp)
+- [Sep 4] [3516. Find Closest Person](Sep/04_Find_Closest_Person.cpp)
 
 ### Structure
 
