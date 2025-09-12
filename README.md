@@ -284,6 +284,7 @@ A collection of daily LeetCode problems with solutions.
 - [Sep 9] [2327. Number of People Aware of a Secret](Sep/09_Number_of_People_Aware_of_a_Secret.cpp)
 - [Sep 10] [1733. Minimum Number of People to Teach](Sep/10_Minimum_Number_of_People_to_Teach.cpp)
 - [Sep 11] [2785. Sort Vowels in a String](Sep/11_Sort_Vowels_in_a_String.cpp)
+- [Sep 12] [3227. Vowels Game in a String](Sep/12_Vowels_Game_in_a_String.cpp)
 
 ### Structure
 
