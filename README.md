@@ -287,6 +287,7 @@ A collection of daily LeetCode problems with solutions.
 - [Sep 12] [3227. Vowels Game in a String](Sep/12_Vowels_Game_in_a_String.cpp)
 - [Sep 13] [3541. Find Most Frequent Vowel and Consonant](Sep/13_Find_Most_Frequent_Vowel_and_Consonant.cpp)
 - [Sep 14] [966. Vowel Spellchecker](Sep/14_Vowel_Spellchecker.cpp)
+- [Sep 15] [1935. Maximum Number of Words You Can Type](Sep/15_Maximum_Number_of_Words_You_Can_Type.cpp)
 
 ### Structure
 
