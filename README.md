@@ -288,6 +288,7 @@ A collection of daily LeetCode problems with solutions.
 - [Sep 13] [3541. Find Most Frequent Vowel and Consonant](Sep/13_Find_Most_Frequent_Vowel_and_Consonant.cpp)
 - [Sep 14] [966. Vowel Spellchecker](Sep/14_Vowel_Spellchecker.cpp)
 - [Sep 15] [1935. Maximum Number of Words You Can Type](Sep/15_Maximum_Number_of_Words_You_Can_Type.cpp)
+- [Sep 16] [2197. Replace Non-Coprime Numbers in Array](Sep/16_Replace_Non_Coprime_Numbers_in_Array.cpp)
 
 ### Structure
 
