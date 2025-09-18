@@ -290,6 +290,7 @@ A collection of daily LeetCode problems with solutions.
 - [Sep 15] [1935. Maximum Number of Words You Can Type](Sep/15_Maximum_Number_of_Words_You_Can_Type.cpp)
 - [Sep 16] [2197. Replace Non-Coprime Numbers in Array](Sep/16_Replace_Non_Coprime_Numbers_in_Array.cpp)
 - [Sep 17] [2353. Design a Food Rating System](Sep/17_Design_a_Food_Rating_System.cpp)
+- [Sep 18] [3408. Design Task Manager](Sep/18_Design_Task_Manager.cpp)
 
 ### Structure
 
