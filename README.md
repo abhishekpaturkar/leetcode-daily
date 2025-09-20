@@ -292,6 +292,7 @@ A collection of daily LeetCode problems with solutions.
 - [Sep 17] [2353. Design a Food Rating System](Sep/17_Design_a_Food_Rating_System.cpp)
 - [Sep 18] [3408. Design Task Manager](Sep/18_Design_Task_Manager.cpp)
 - [Sep 19] [3484. Design Spreadsheet](Sep/19_Design_Spreadsheet.cpp)
+- [Sep 20] [3508. Implement Router](Sep/20_Implement_Router.cpp)
 
 ### Structure
 
