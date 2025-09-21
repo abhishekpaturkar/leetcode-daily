@@ -293,6 +293,7 @@ A collection of daily LeetCode problems with solutions.
 - [Sep 18] [3408. Design Task Manager](Sep/18_Design_Task_Manager.cpp)
 - [Sep 19] [3484. Design Spreadsheet](Sep/19_Design_Spreadsheet.cpp)
 - [Sep 20] [3508. Implement Router](Sep/20_Implement_Router.cpp)
+- [Sep 21] [1912. Design Movie Rental System](Sep/21_Design_Movie_Rental_System.cpp)
 
 ### Structure
 
