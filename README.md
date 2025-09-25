@@ -297,6 +297,7 @@ A collection of daily LeetCode problems with solutions.
 - [Sep 22] [3005. Count Elements With Maximum Frequency](Sep/22_Count_Elements_With_Maximum_Frequency.cpp-+)
 - [Sep 23] [165. Compare Version Numbers](Sep/23_Compare_Version_Numbers.cpp)
 - [Sep 24] [166. Fraction to Recurring Decimal](Sep/24_Fraction_to_Recurring_Decimal.cpp)
+- [Sep 25] [120. Triangle](Sep/25_Triangle.cpp)
 
 ### Structure
 
