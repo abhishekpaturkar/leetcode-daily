@@ -301,6 +301,7 @@ A collection of daily LeetCode problems with solutions.
 - [Sep 26] [611. Valid Triangle Number](Sep/26_Valid_Triangle_Number.cpp)
 - [Sep 27] [812. Largest Triangle Area](Sep/27_Largest_Triangle_Area.cpp)
 - [Sep 28] [976. Largest Perimeter Triangle](Sep/28_Largest_Perimeter_Triangle.cpp)
+- [Sep 29] [1039. Minimum Score Triangulation of Polygon](Sep/29_Minimum_Score_Triangulation_of_Polygon.cpp)
 
 ### Structure
 
