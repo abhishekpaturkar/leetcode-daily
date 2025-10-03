@@ -304,6 +304,13 @@ A collection of daily LeetCode problems with solutions.
 - [Sep 29] [1039. Minimum Score Triangulation of Polygon](Sep/29_Minimum_Score_Triangulation_of_Polygon.cpp)
 - [Sep 30] [2221. Find Triangular Sum of an Array](Sep/30_Find_Triangular_Sum_of_an_Array.cpp)
 
+### October 2025
+
+- [Oct 1] [1518. Water Bottles](Oct/01_Water_Bottles.cpp)
+- [Oct 2] [3100. Water Bottles II](Oct/02_Water_Bottles_II.cpp)
+- [Oct 3] [407. Trapping Rain Water II](Oct/03_Trapping_Rain_Water_II.cpp)
+
+
 ### Structure
 
 Each solution includes:
