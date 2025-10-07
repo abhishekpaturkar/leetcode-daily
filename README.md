@@ -312,6 +312,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 4] [11. Container With Most Water](Oct/04_Container_With_Most_Water.cpp)
 - [Oct 5] [417. Pacific Atlantic Water Flow](Oct/05_Pacific_Atlantic_Water_Flow.cpp)
 - [Oct 6] [778. Swim in Rising Water](Oct/06_Swim_in_Rising_Water.cpp)
+- [Oct 7] [1488. Avoid Flood in The City](Oct/07_Avoid_Flood_in_The_City.cpp)
 
 ### Structure
 
