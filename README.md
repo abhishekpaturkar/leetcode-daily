@@ -313,6 +313,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 5] [417. Pacific Atlantic Water Flow](Oct/05_Pacific_Atlantic_Water_Flow.cpp)
 - [Oct 6] [778. Swim in Rising Water](Oct/06_Swim_in_Rising_Water.cpp)
 - [Oct 7] [1488. Avoid Flood in The City](Oct/07_Avoid_Flood_in_The_City.cpp)
+- [Oct 8] [2300. Successful Pairs of Spells and Potions ](Oct/08_Successful_Pairs_of_Spells_and_Potions.cpp)
 
 ### Structure
 
