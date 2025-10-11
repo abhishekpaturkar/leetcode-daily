@@ -316,6 +316,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 8] [2300. Successful Pairs of Spells and Potions ](Oct/08_Successful_Pairs_of_Spells_and_Potions.cpp)
 - [Oct 9] [3494. Find the Minimum Amount of Time to Brew Potions](Oct/09_Find_the_Minimum_Amount_of_Time_to_Brew_Potions.cpp)
 - [Oct 10] [3147. Taking Maximum Energy From the Mystic Dungeon](Oct/10_Taking_Maximum_Energy_From_the_Mystic_Dungeon.cpp)
+- [Oct 11] [3186. Maximum Total Damage With Spell Casting](Oct/11_Maximum_Total_Damage_With_Spell_Casting.cpp)
 
 ### Structure
 
