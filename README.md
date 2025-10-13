@@ -318,6 +318,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 10] [3147. Taking Maximum Energy From the Mystic Dungeon](Oct/10_Taking_Maximum_Energy_From_the_Mystic_Dungeon.cpp)
 - [Oct 11] [3186. Maximum Total Damage With Spell Casting](Oct/11_Maximum_Total_Damage_With_Spell_Casting.cpp)
 - [Oct 12] [3539. Find Sum of Array Product of Magical Sequences](Oct/12_Find_Sum_of_Array_Product_of_Magical_Sequences.cpp)
+- [Oct 13] [2273. Find Resultant Array After Removing Anagrams](Oct/13_Find_Resultant_Array_After_Removing_Anagrams.cpp)
 
 ### Structure
 
