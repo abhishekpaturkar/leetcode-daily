@@ -319,6 +319,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 11] [3186. Maximum Total Damage With Spell Casting](Oct/11_Maximum_Total_Damage_With_Spell_Casting.cpp)
 - [Oct 12] [3539. Find Sum of Array Product of Magical Sequences](Oct/12_Find_Sum_of_Array_Product_of_Magical_Sequences.cpp)
 - [Oct 13] [2273. Find Resultant Array After Removing Anagrams](Oct/13_Find_Resultant_Array_After_Removing_Anagrams.cpp)
+- [Oct 14] [3349. Adjacent Increasing Subarrays Detection I](Oct/14_Adjacent_Increasing_Subarrays_Detection_I.cpp)
 
 ### Structure
 
