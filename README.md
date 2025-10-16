@@ -321,6 +321,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 13] [2273. Find Resultant Array After Removing Anagrams](Oct/13_Find_Resultant_Array_After_Removing_Anagrams.cpp)
 - [Oct 14] [3349. Adjacent Increasing Subarrays Detection I](Oct/14_Adjacent_Increasing_Subarrays_Detection_I.cpp)
 - [Oct 15] [3350. Adjacent Increasing Subarrays Detection II](Oct/15_Adjacent_Increasing_Subarrays_Detection_II.cpp)
+- [Oct 16] [2598. Smallest Missing Non-negative Integer After Operations](Oct/16_Smallest_Missing_Non_negative_Integer_After_Operations.cpp)
 
 ### Structure
 
