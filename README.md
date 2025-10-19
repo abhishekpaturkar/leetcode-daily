@@ -324,6 +324,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 16] [2598. Smallest Missing Non-negative Integer After Operations](Oct/16_Smallest_Missing_Non_negative_Integer_After_Operations.cpp)
 - [Oct 17] [3003. Maximize the Number of Partitions After Operations](Oct/17_Maximize_the_Number_of_Partitions_After_Operations.cpp)
 - [Oct 18] [3397. Maximum Number of Distinct Elements After Operations](Oct/18_Maximum_Number_of_Distinct_Elements_After_Operations.cpp)
+- [Oct 19] [1625. Lexicographically Smallest String After Applying Operations](Oct/19_Lexicographically_Smallest_String_After_Applying_Operations.cpp)
 
 ### Structure
 
