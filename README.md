@@ -327,6 +327,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 19] [1625. Lexicographically Smallest String After Applying Operations](Oct/19_Lexicographically_Smallest_String_After_Applying_Operations.cpp)
 - [Oct 20] [2011. Final Value of Variable After Performing Operations](Oct/20_Final_Value_of_Variable_After_Performing_Operations.cpp)
 - [Oct 21] [3346. Maximum Frequency of an Element After Performing Operations I](Oct/21_Maximum_Frequency_of_an_Element_After_Performing_Operations_Icpp)
+- [Oct 22] [3347. Maximum Frequency of an Element After Performing Operations II](Oct/22_Maximum_Frequency_of_an_Element_After_Performing_Operations_II.cpp)
 
 ### Structure
 
