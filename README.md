@@ -329,6 +329,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 21] [3346. Maximum Frequency of an Element After Performing Operations I](Oct/21_Maximum_Frequency_of_an_Element_After_Performing_Operations_Icpp)
 - [Oct 22] [3347. Maximum Frequency of an Element After Performing Operations II](Oct/22_Maximum_Frequency_of_an_Element_After_Performing_Operations_II.cpp)
 - [Oct 23] [3461. Check If Digits Are Equal in String After Operations I](Oct/23_Check_If_Digits_Are_Equal_in_String_After_Operations_I.cpp)
+- [Oct 24] [2048. Next Greater Numerically Balanced Number](Oct/24_Next_Greater_Numerically_Balanced_Number.cpp)
 
 ### Structure
 
