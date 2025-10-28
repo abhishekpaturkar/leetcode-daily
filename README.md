@@ -332,6 +332,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 24] [2048. Next Greater Numerically Balanced Number](Oct/24_Next_Greater_Numerically_Balanced_Number.cpp)
 - [Oct 25] [1716. Calculate Money in Leetcode Bank](Oct/25_Calculate_Money_in_Leetcode_Bank.cpp)
 - [Oct 26] [2043. Simple Bank System](Oct/26_Simple_Bank_System.cpp)
+- [Oct 27] [2125. Number of Laser Beams in a Bank](Oct/27_Number_of_Laser_Beams_in_a_Bank.cpp)
 
 ### Structure
 
