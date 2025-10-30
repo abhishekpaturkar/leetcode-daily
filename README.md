@@ -335,6 +335,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 27] [2125. Number of Laser Beams in a Bank](Oct/27_Number_of_Laser_Beams_in_a_Bank.cpp)
 - [Oct 28] [3354. Make Array Elements Equal to Zero](Oct/28_Make_Array_Elements_Equal_to_Zero.cpp)
 - [Oct 29] [3370. Smallest Number With All Set Bits](Oct/29_Smallest_Number_With_All_Set_Bits.cpp)
+- [Oct 30] [1526. Minimum Number of Increments on Subarrays to Form a Target Array](Oct/30_Number%20of_Increments_on_Subarrays_to_Form_a_Target_Array.cpp)
 
 ### Structure
 
