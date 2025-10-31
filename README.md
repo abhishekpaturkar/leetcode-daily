@@ -336,6 +336,7 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 28] [3354. Make Array Elements Equal to Zero](Oct/28_Make_Array_Elements_Equal_to_Zero.cpp)
 - [Oct 29] [3370. Smallest Number With All Set Bits](Oct/29_Smallest_Number_With_All_Set_Bits.cpp)
 - [Oct 30] [1526. Minimum Number of Increments on Subarrays to Form a Target Array](Oct/30_Number%20of_Increments_on_Subarrays_to_Form_a_Target_Array.cpp)
+- [Oct 31] [3289. The Two Sneaky Numbers of Digitville](Oct/31_The_Two_Sneaky_Numbers_of_Digitville.cpp)
 
 ### Structure
 
