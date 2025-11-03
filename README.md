@@ -338,9 +338,10 @@ A collection of daily LeetCode problems with solutions.
 - [Oct 30] [1526. Minimum Number of Increments on Subarrays to Form a Target Array](Oct/30_Number%20of_Increments_on_Subarrays_to_Form_a_Target_Array.cpp)
 - [Oct 31] [3289. The Two Sneaky Numbers of Digitville](Oct/31_The_Two_Sneaky_Numbers_of_Digitville.cpp)
 
-
 ### November 2025
+
 - [Nov 1] [3217. Delete Nodes From Linked List Present in Array](Nov/01_Delete_Nodes_From_Linked_List_Present_in_Array.cpp)
+- [Nov 2] [2257. Count Unguarded Cells in the Grid](Nov/02_Count_Unguarded_Cells_in_the_Grid.cpp)
 
 ### Structure
 
