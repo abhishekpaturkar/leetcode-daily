@@ -342,6 +342,7 @@ A collection of daily LeetCode problems with solutions.
 
 - [Nov 1] [3217. Delete Nodes From Linked List Present in Array](Nov/01_Delete_Nodes_From_Linked_List_Present_in_Array.cpp)
 - [Nov 2] [2257. Count Unguarded Cells in the Grid](Nov/02_Count_Unguarded_Cells_in_the_Grid.cpp)
+- [Nov 3] [1578. Minimum Time to Make Rope Colorful](Nov/03_Minimum_Time_to_Make_Rope_Colorful.cpp)
 
 ### Structure
 
