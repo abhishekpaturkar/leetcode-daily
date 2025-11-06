@@ -345,6 +345,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 3] [1578. Minimum Time to Make Rope Colorful](Nov/03_Minimum_Time_to_Make_Rope_Colorful.cpp)
 - [Nov 4] [3318. Find X-Sum of All K-Long Subarrays I](Nov/04_Find_X_Sum_of_All_K-Long_Subarrays_I.cpp)
 - [Nov 5] [3321. Find X-Sum of All K-Long Subarrays II](Nov/05_Find_X_Sum_of_All_K-Long_Subarrays_II.cpp)
+- [Nov 6] [3607. Power Grid Maintenance](Nov/06_Power_Grid_Maintenance.cpp)
 
 ### Structure
 
