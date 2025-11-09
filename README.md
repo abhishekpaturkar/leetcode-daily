@@ -348,6 +348,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 6] [3607. Power Grid Maintenance](Nov/06_Power_Grid_Maintenance.cpp)
 - [Nov 7] [2528. Maximize the Minimum Powered City](Nov/07_Maximize_the_Minimum_Powered_City.cpp)
 - [Nov 8] [1611. Minimum One Bit Operations to Make Integers Zero](Nov/08_Minimum_One_Bit_Operations_to_Make_Integers_Zero.cpp)
+- [Nov 9] [2169. Count Operations to Obtain Zero](Nov/09_Count_Operations_to_Obtain_Zero.cpp)
 
 ### Structure
 
