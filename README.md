@@ -350,6 +350,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 8] [1611. Minimum One Bit Operations to Make Integers Zero](Nov/08_Minimum_One_Bit_Operations_to_Make_Integers_Zero.cpp)
 - [Nov 9] [2169. Count Operations to Obtain Zero](Nov/09_Count_Operations_to_Obtain_Zero.cpp)
 - [Nov 10] [3542. Minimum Operations to Convert All Elements to Zero](Nov/10_Minimum_Operations_to_Convert_All_Elements_to_Zero.cpp)
+- [Nov 11] [474. Ones and Zeroes](Nov/11_Ones_and_Zeroes.cpp)
 
 ### Structure
 
