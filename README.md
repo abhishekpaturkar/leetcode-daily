@@ -352,6 +352,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 10] [3542. Minimum Operations to Convert All Elements to Zero](Nov/10_Minimum_Operations_to_Convert_All_Elements_to_Zero.cpp)
 - [Nov 11] [474. Ones and Zeroes](Nov/11_Ones_and_Zeroes.cpp)
 - [Nov 12] [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](Nov/12_Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1.cpp)
+- [Nov 13] [3228. Maximum Number of Operations to Move Ones to the End](Nov/13_Maximum_Number_of_Operations_to_Move_Ones_to_the_End.cpp)
 
 ### Structure
 
