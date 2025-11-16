@@ -354,6 +354,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 12] [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](Nov/12_Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1.cpp)
 - [Nov 13] [3228. Maximum Number of Operations to Move Ones to the End](Nov/13_Maximum_Number_of_Operations_to_Move_Ones_to_the_End.cpp)
 - [Nov 14] [2536. Increment Submatrices by One](Nov/14_Increment_Submatrices_by_One.cpp)
+- [Nov 15] [3234. Count the Number of Substrings With Dominant Ones](Nov/15_Count_the_Number_of_Substrings_With_Dominant_Ones.cpp)
 
 ### Structure
 
