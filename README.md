@@ -358,6 +358,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 16] [1513. Number of Substrings With Only 1s](Nov/16_Number_of_Substrings_With_Only_1s.cpp)
 - [Nov 17] [1437. Check If All 1's Are at Least Length K Places Away](Nov/17_Check_If_All_1's_Are_at_Least_Length_K_Places_Away.cpp)
 - [Nov 18] [717. 1-bit and 2-bit Characters](Nov/18_1-bit_and_2-bit_Characters.cpp)
+- [Nov 19] [2154. Keep Multiplying Found Values by Two](Nov/19_Keep_Multiplying_Found_Values_by_Two.cpp)
 
 ### Structure
 
