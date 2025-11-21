@@ -360,6 +360,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 18] [717. 1-bit and 2-bit Characters](Nov/18_1-bit_and_2-bit_Characters.cpp)
 - [Nov 19] [2154. Keep Multiplying Found Values by Two](Nov/19_Keep_Multiplying_Found_Values_by_Two.cpp)
 - [Nov 20] [757. Set Intersection Size At Least Two](Nov/20_Set_Intersection_Size_At_Least_Two.cpp)
+- [Nov 21] [1930. Unique Length-3 Palindromic Subsequences](Nov/21_Unique_Length-3_Palindromic_Subsequences.cpp)
 
 ### Structure
 
