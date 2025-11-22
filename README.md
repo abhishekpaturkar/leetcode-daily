@@ -361,6 +361,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 19] [2154. Keep Multiplying Found Values by Two](Nov/19_Keep_Multiplying_Found_Values_by_Two.cpp)
 - [Nov 20] [757. Set Intersection Size At Least Two](Nov/20_Set_Intersection_Size_At_Least_Two.cpp)
 - [Nov 21] [1930. Unique Length-3 Palindromic Subsequences](Nov/21_Unique_Length-3_Palindromic_Subsequences.cpp)
+- [Nov 22] [3190. Find Minimum Operations to Make All Elements Divisible by Three](Nov/22_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.cpp)
 
 ### Structure
 
