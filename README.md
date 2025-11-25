@@ -364,6 +364,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 22] [3190. Find Minimum Operations to Make All Elements Divisible by Three](Nov/22_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.cpp)
 - [Nov 23] [1262. Greatest Sum Divisible by Three](Nov/23_Greatest_Sum_Divisible_by_Three.cpp)
 - [Nov 24] [1018. Binary Prefix Divisible By 5](Nov/24_Binary_Prefix_Divisible_By_5.cpp)
+- [Nov 25] [1015. Smallest Integer Divisible by K](Nov/25_Smallest_Integer_Divisible_by_K.cpp)
 
 ### Structure
 
