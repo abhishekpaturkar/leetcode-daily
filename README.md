@@ -365,6 +365,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 23] [1262. Greatest Sum Divisible by Three](Nov/23_Greatest_Sum_Divisible_by_Three.cpp)
 - [Nov 24] [1018. Binary Prefix Divisible By 5](Nov/24_Binary_Prefix_Divisible_By_5.cpp)
 - [Nov 25] [1015. Smallest Integer Divisible by K](Nov/25_Smallest_Integer_Divisible_by_K.cpp)
+- [Nov 26] [2435. Paths in Matrix Whose Sum Is Divisible by K](Nov/26_Paths_in_Matrix_Whose_Sum_Is_Divisible_by_K.cpp)
 
 ### Structure
 
