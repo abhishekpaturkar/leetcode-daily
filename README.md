@@ -369,6 +369,7 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 27] [3381. Maximum Subarray Sum With Length Divisible by K](Nov/27_Maximum_Subarray_Sum_With_Length_Divisible_by_Kcpp)
 - [Nov 28] [2872. Maximum Number of K-Divisible Components](Nov/28_Maximum_Number_of_K-Divisible_Components28_.cpp)
 - [Nov 29] [3512. Minimum Operations to Make Array Sum Divisible by K](Nov/29_Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.cpp)
+- [Nov 30] [1590. Make Sum Divisible by P](Nov/30_Make_Sum_Divisible_by_P.cpp)
 
 ### Structure
 
