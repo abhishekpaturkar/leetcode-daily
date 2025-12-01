@@ -371,6 +371,10 @@ A collection of daily LeetCode problems with solutions.
 - [Nov 29] [3512. Minimum Operations to Make Array Sum Divisible by K](Nov/29_Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.cpp)
 - [Nov 30] [1590. Make Sum Divisible by P](Nov/30_Make_Sum_Divisible_by_P.cpp)
 
+### December 2025
+
+- [Dec 1] [2141. Maximum Running Time of N Computers](Dec/01_Maximum_Running_Time_of_N_Computers.cpp)
+
 ### Structure
 
 Each solution includes:
