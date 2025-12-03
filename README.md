@@ -375,6 +375,7 @@ A collection of daily LeetCode problems with solutions.
 
 - [Dec 1] [2141. Maximum Running Time of N Computers](Dec/01_Maximum_Running_Time_of_N_Computers.cpp)
 - [Dec 2] [3623. Count Number of Trapezoids I](Dec/02_Count_Number_of_Trapezoids_I.cpp)
+- [Dec 3] [3625. Count Number of Trapezoids II](Dec/03_Count_Number_of_Trapezoids_II.cpp)
 
 ### Structure
 
