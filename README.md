@@ -378,6 +378,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 3] [3625. Count Number of Trapezoids II](Dec/03_Count_Number_of_Trapezoids_II.cpp)
 - [Dec 4] [2211. Count Collisions on a Road](Dec/04_Count_Collisions_on_a_Road.cpp)
 - [Dec 5] [3432. Count Partitions with Even Sum Difference](Dec/05_Count_Partitions_with_Even_Sum_Difference.cpp)
+- [Dec 6] [3578. Count Partitions With Max-Min Difference at Most K](Dec/06_Count_Partitions_With_Max-Min_Difference_at_Most_K.cpp)
 
 ### Structure
 
