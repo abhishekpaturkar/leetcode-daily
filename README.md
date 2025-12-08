@@ -380,6 +380,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 5] [3432. Count Partitions with Even Sum Difference](Dec/05_Count_Partitions_with_Even_Sum_Difference.cpp)
 - [Dec 6] [3578. Count Partitions With Max-Min Difference at Most K](Dec/06_Count_Partitions_With_Max-Min_Difference_at_Most_K.cpp)
 - [Dec 7] [1523. Count Odd Numbers in an Interval Range](Dec/07_Count_Odd_Numbers_in_an_Interval_Range.cpp)
+- [Dec 8] [1925. Count Square Sum Triples](Dec/08_Count_Square_Sum_Triples.cpp)
 
 ### Structure
 
