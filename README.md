@@ -382,6 +382,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 7] [1523. Count Odd Numbers in an Interval Range](Dec/07_Count_Odd_Numbers_in_an_Interval_Range.cpp)
 - [Dec 8] [1925. Count Square Sum Triples](Dec/08_Count_Square_Sum_Triples.cpp)
 - [Dec 9] [3583. Count Special Triplets](Dec/09_Count_Special_Triplets.cpp)
+- [Dec 10] [3577. Count the Number of Computer Unlocking Permutations](Dec/10_Count_the_Number_of_Computer_Unlocking_Permutations.cpp)
 
 ### Structure
 
