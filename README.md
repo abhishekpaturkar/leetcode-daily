@@ -385,6 +385,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 10] [3577. Count the Number of Computer Unlocking Permutations](Dec/10_Count_the_Number_of_Computer_Unlocking_Permutations.cpp)
 - [Dec 11] [3531. Count Covered Buildings](Dec/11_Count_Covered_Buildings.cpp)
 - [Dec 12] [3433. Count Mentions Per User](Dec/12_Count_Mentions_Per_User.cpp)
+- [Dec 13] [3606. Coupon Code Validator](Dec/13_Coupon_Code_Validator.cpp)
 
 ### Structure
 
