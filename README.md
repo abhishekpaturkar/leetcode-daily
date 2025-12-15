@@ -387,6 +387,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 12] [3433. Count Mentions Per User](Dec/12_Count_Mentions_Per_User.cpp)
 - [Dec 13] [3606. Coupon Code Validator](Dec/13_Coupon_Code_Validator.cpp)
 - [Dec 14] [2147. Number of Ways to Divide a Long Corridor](Dec/14_Number_of_Ways_to_Divide_a_Long_Corridor.cpp)
+- [Dec 15] [2110. Number of Smooth Descent Periods of a Stock](Dec/15_Number_of_Smooth_Descent_Periods_of_a_Stock.cpp)
 
 ### Structure
 
