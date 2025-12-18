@@ -390,6 +390,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 15] [2110. Number of Smooth Descent Periods of a Stock](Dec/15_Number_of_Smooth_Descent_Periods_of_a_Stock.cpp)
 - [Dec 16] [3562. Maximum Profit from Trading Stocks with Discounts](Dec/16_Maximum_Profit_from_Trading_Stocks_with_Discounts.cpp)
 - [Dec 17] [3573. Best Time to Buy and Sell Stock V](Dec/17_Best_Time_to_Buy_and_Sell_Stock_V.cpp)
+- [Dec 18] [3652. Best Time to Buy and Sell Stock using Strategy](Dec/18_Best_Time_to_Buy_and_Sell_Stock_using_Strategy.cpp)
 
 ### Structure
 
