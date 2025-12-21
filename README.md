@@ -393,6 +393,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 18] [3652. Best Time to Buy and Sell Stock using Strategy](Dec/18_Best_Time_to_Buy_and_Sell_Stock_using_Strategy.cpp)
 - [Dec 19] [2092. Find All People With Secret](Dec/19_Best_Time_to_Buy_and_Sell_Stock_using_Strategy.cpp)
 - [Dec 20] [944. Delete Columns to Make Sorted](Dec/20_Delete_Columns_to_Make_Sorted.cpp)
+- [Dec 21] [955. Delete Columns to Make Sorted II](Dec/21_Delete_Columns_to_Make_Sorted_II.cpp)
 
 ### Structure
 
