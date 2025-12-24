@@ -396,6 +396,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 21] [955. Delete Columns to Make Sorted II](Dec/21_Delete_Columns_to_Make_Sorted_II.cpp)
 - [Dec 22] [960. Delete Columns to Make Sorted III](Dec/22_Delete_Columns_to_Make_Sorted_III.cpp)
 - [Dec 23] [2054. Two Best Non-Overlapping Events](Dec/23_Two_Best_Non-Overlapping_Events.cpp)
+- [Dec 24] [3074. Apple Redistribution into Boxes](Dec/24_Apple_Redistribution_into_Boxes.cpp)
 
 ### Structure
 
