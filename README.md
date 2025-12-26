@@ -398,6 +398,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 23] [2054. Two Best Non-Overlapping Events](Dec/23_Two_Best_Non-Overlapping_Events.cpp)
 - [Dec 24] [3074. Apple Redistribution into Boxes](Dec/24_Apple_Redistribution_into_Boxes.cpp)
 - [Dec 25] [3075. Maximize Happiness of Selected Children](Dec/25_Maximize_Happiness_of_Selected_Children.cpp)
+- [Dec 26] [2483. Minimum Penalty for a Shop](Dec/26_Minimum_Penalty_for_a_Shop.cpp)
 
 ### Structure
 
