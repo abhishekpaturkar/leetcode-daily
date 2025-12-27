@@ -399,6 +399,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 24] [3074. Apple Redistribution into Boxes](Dec/24_Apple_Redistribution_into_Boxes.cpp)
 - [Dec 25] [3075. Maximize Happiness of Selected Children](Dec/25_Maximize_Happiness_of_Selected_Children.cpp)
 - [Dec 26] [2483. Minimum Penalty for a Shop](Dec/26_Minimum_Penalty_for_a_Shop.cpp)
+- [Dec 27] [2402. Meeting Rooms III](Dec/27_Meeting_Rooms_III.cpp)
 
 ### Structure
 
