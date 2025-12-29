@@ -401,6 +401,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 26] [2483. Minimum Penalty for a Shop](Dec/26_Minimum_Penalty_for_a_Shop.cpp)
 - [Dec 27] [2402. Meeting Rooms III](Dec/27_Meeting_Rooms_III.cpp)
 - [Dec 28] [1351. Count Negative Numbers in a Sorted Matrix](Dec/28_Count_Negative_Numbers_in_a_Sorted_Matrix.cpp)
+- [Dec 29] [756. Pyramid Transition Matrix](Dec/29_Pyramid_Transition_Matrix.cpp)
 
 ### Structure
 
