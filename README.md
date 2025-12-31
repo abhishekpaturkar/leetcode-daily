@@ -403,6 +403,7 @@ A collection of daily LeetCode problems with solutions.
 - [Dec 28] [1351. Count Negative Numbers in a Sorted Matrix](Dec/28_Count_Negative_Numbers_in_a_Sorted_Matrix.cpp)
 - [Dec 29] [756. Pyramid Transition Matrix](Dec/29_Pyramid_Transition_Matrix.cpp)
 - [Dec 30] [840. Magic Squares In Grid](Dec/30_Magic_Squares_In_Grid.cpp)
+- [Dec 31] [1970. Last Day Where You Can Still Cross](Dec/31_Last_Day_Where_You_Can_Still_Cross.cpp)
 
 ### Structure
 
